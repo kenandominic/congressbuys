@@ -1,0 +1,785 @@
+,document_id,id,owner,asset,transactiontype,date,notif_date,amount,capgains,assettype,ticker
+0,,,,,,,,,,,
+1,20024769,,jt,"virginia st hsg dev 3.65% 04/01/33 [gs] f_____ s_____: new s_________ o_: stocks, bonds, & mutual funds d__________: 20,000 units of virginia state housing development bond, 3.65%, 04/01/3",p,03/28/2024,,"$15,001 - $50,000 3",,,
+2,20024458,,sp,"blackrock, inc. common stock (blk) [st] f_____ s_____: new s_________ o_: r.w. allen & associates, inc.",s,01/17/2024,,"$50,001 - $100,000",,st,blk
+3,20024277,,sp,"albemarle corporation (alb) [st] f_____ s_____: new s_________ o_: r.w. allen & associates, inc.",s,12/21/2023,,"$1,001 - $15,000",,st,alb
+4,20024277,,sp,albemarle corporation (alb) [st],s,12/21/2023,,"$1,001 - $15,000",,st,alb
+5,20024277,,sp,"charles schwab corporation (schw) [st] f_____ s_____: new s_________ o_: r.w. allen & associates, inc.",p,12/14/2023,,"$50,001 - $100,000",,st,schw
+6,20024277,,sp,"nextera energy, inc. (nee) [st]",s,12/21/2023,,"$15,001 - $50,000",,st,nee
+7,20024580,,sp,alphabet inc. - class a common stock (googl) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,s,02/01/2024,,"$1,001 - $15,000",,st,googl
+8,20024580,,sp,"amazon.com, inc. - common stock (amzn) [st]",p,02/12/2024,,"$15,001 - $50,000",,st,amzn
+9,20024580,,sp,koninklijke philips n.v. ny registry shares (phg) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,p,02/12/2024,,"$1,001 - $15,000",,st,phg
+10,20024580,,sp,"pfizer, inc. common stock (pfe) [st]",p,02/12/2024,,"$1,001 - $15,000",,st,pfe
+11,20024580,,sp,qualcomm incorporated - common stock (qcom) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,p,02/12/2024,,"$1,001 - $15,000",,st,qcom
+12,20024580,,sp,unilever plc common stock (ul) [st],s,02/12/2024,,"$1,001 - $15,000",,st,ul
+13,20025133,,jt,"metropolitan wash dc 5.00% 10/01/31 [gs] f_____ s_____: new s_________ o_: stocks, bonds, & mutual funds d__________: 20,000 units of metropolitan washington dc 5.00% 10/01/31 bonds",p,05/02/2024,,"$15,001 - $50,000",,,
+14,20024254,,sp,"alaska air group, inc. (alk) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.",s,12/13/2023,,"$1,001 - $15,000",,st,alk
+15,20024254,,sp,diageo plc (deo) [st],p,12/07/2023,,"$15,001 - $50,000",,st,deo
+16,20024671,,sp,northwest natural holding company common stock (nwn) [st] f_____ s_____: new d__________: dividend reinvestment. part of my spouse’sretirement portfolio.,p,02/15/2024,,"$1,001 - $15,000",,st,nwn
+17,20024265,,,"united parcel service, inc. (ups) [st] f_____ s_____: new",s,12/14/2023,,"$1,001 - $15,000",,st,ups
+18,20024265,,,"united parcel service, inc. (ups) [st]",p,12/14/2023,,"$1,001 - $15,000",,st,ups
+19,20024265,,sp,"united parcel service, inc. (ups) [st] f_____ s_____: new",s,12/15/2023,,"$1,001 - $15,000",,st,ups
+20,20024265,,sp,"united parcel service, inc. (ups) [st]",p,12/15/2023,,"$1,001 - $15,000",,st,ups
+21,20024437,,,blackstone inc. (bx) [st] f_____ s_____: new,s,01/12/2024,,"$15,001 - $50,000",,st,bx
+22,20024437,,,valero energy corporation (vlo) [st],s,01/12/2024,,"$15,001 - $50,000",,st,vlo
+23,20024722,,,"illumina, inc. - common stock (ilmn) [st] f_____ s_____: new",s,03/11/2024,,"$1,001 - $15,000",,st,ilmn
+24,20024722,,,"walgreens boots alliance, inc. - common stock (wba) [st]",s,03/01/2024,,"$1,001 - $15,000",,st,wba
+25,20025219,,sp,northwest natural holding company common stock (nwn) [st] f_____ s_____: new d__________: dividend reinvestment. part of my spouse'sretirement portfolio.,p,05/15/2024,,"$1,001 - $15,000",,st,nwn
+26,20024627,,,"best buy co., inc. common stock (bby) [st] f_____ s_____: new",s,02/23/2024,,"$15,001 - $50,000",,st,bby
+27,20024627,,sp,"best buy co., inc. common stock (bby) [st]",s,02/26/2024,,"$15,001 - $50,000",,st,bby
+28,20024627,,sp,"illumina, inc. - common stock (ilmn) [st] f_____ s_____: new",s,02/12/2024,,"$1,001 - $15,000",,st,ilmn
+29,20024627,,,"illumina, inc. - common stock (ilmn) [st]",s,02/09/2024,,"$1,001 - $15,000",,st,ilmn
+30,20024627,,,"illumina, inc. - common stock (ilmn) [st] f_____ s_____: new d__________: the terms of the call are astrike price of $138, and an expiration of 03/08/2",s,02/12/2024,,"$1,001 - $15,000 024.",,st,ilmn
+31,20024627,,,"illumina, inc. - common stock (ilmn) [st]",p,02/12/2024,,"$15,001 - $50,000",,st,ilmn
+32,20024627,,,"palo alto networks, inc. (panw) [st] f_____ s_____: new",s,02/09/2024,,"$15,001 - $50,000",,st,panw
+33,20024330,,sp,"advanced micro devices, inc. (amd) [st] f_____ s_____: new",s,01/02/2024,,"$1,001 - $15,000",,st,amd
+34,20024330,,sp,amgen inc. (amgn) [st],s,01/02/2024,,"$15,001 - $50,000",,st,amgn
+35,20024330,,sp,blackstone inc. (bx) [st] f_____ s_____: new,s,01/02/2024,,"$15,001 - $50,000",,st,bx
+36,20024330,,sp,exxon mobil corporation (xom) [st],p,01/02/2024,,"$15,001 - $50,000",,st,xom
+37,20024330,,sp,"illumina, inc. (ilmn) [st] f_____ s_____: new",p,01/02/2024,,"$15,001 - $50,000",,st,ilmn
+38,20024330,,sp,"illumina, inc. (ilmn) [st]",s,01/02/2024,,"$1,001 - $15,000",,st,ilmn
+39,20024330,,,"illumina, inc. (ilmn) [st] f_____ s_____: new",p,01/02/2024,,"$1,001 - $15,000",,st,ilmn
+40,20024330,,sp,"palo alto networks, inc. (panw) [st]",s,01/02/2024,,"$15,001 - $50,000",,st,panw
+41,20024330,,sp,royal bank of canada (ry) [st] f_____ s_____: new,p,01/10/2024,,"$1,001 - $15,000",,st,ry
+42,20024330,,sp,royal bank of canada (ry) [st],s,01/10/2024,,"$1,001 - $15,000",,st,ry
+43,20024330,,sp,valero energy corporation (vlo) [st] f_____ s_____: new,s,01/02/2024,,"$15,001 - $50,000",,st,vlo
+44,20024984,,sp,blackstone inc. common stock (bx) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,s,04/04/2024,,"$1,001 - $15,000",,st,bx
+45,20024984,,sp,"caterpillar, inc. common stock (cat) [st]",s,04/04/2024,,"$1,001 - $15,000",,st,cat
+46,20024984,,sp,embraer s.a. common stock (erj) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,s,04/04/2024,,"$1,001 - $15,000",,st,erj
+47,20024984,,sp,kroger company (kr) [st],s,04/04/2024,,"$1,001 - $15,000",,st,kr
+48,20024984,,sp,"magna international, inc. common stock (mga) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.",s,04/04/2024,,"$1,001 - $15,000",,st,mga
+49,20024984,,sp,mckesson corporation common stock (mck) [st],s,04/04/2024,,"$15,001 - $50,000",,st,mck
+50,20024984,,sp,"nike, inc. common stock (nke) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.",p,04/04/2024,,"$15,001 - $50,000",,st,nke
+51,20024984,,sp,quest diagnostics incorporated common stock (dgx) [st],s,04/04/2024,,"$1,001 - $15,000",,st,dgx
+52,20024984,,sp,rtx corporation common stock (rtx) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,p,04/04/2024,,"$1,001 - $15,000",,st,rtx
+53,20024984,,sp,southern company (so) [st],p,04/04/2024,,"$15,001 - $50,000",,st,so
+54,20024984,,sp,te connectivity ltd. new switzerland registered shares (tel) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,s,04/04/2024,,"$15,001 - $50,000",,st,tel
+55,20024984,,sp,visa inc. (v) [st] f_____ s_____: new d__________: part of my spouse's retirement portfolio.,p,04/04/2024,,"$1,001 - $15,000",,st,v
+56,20024838,,sp,exxon mobil corporation common stock (xom) [st] f_____ s_____: new,s,03/11/2024,,"$15,001 - $50,000",,st,xom
+57,20024838,,sp,"illumina, inc. - common stock (ilmn) [st]",s,03/11/2024,,"$1,001 - $15,000",,st,ilmn
+58,20025031,,sp,"ameriprise financial, inc. common stock (amp) [st] f_____ s_____: new s_________ o_: r.w. allen & associates, inc. > rwa&a- securities",p,04/09/2024,,"$50,001 - $100,000",,st,amp
+59,20024966,,,abbvie inc. common stock (abbv) [st] f_____ s_____: new,s,04/10/2024,,"$1,001 - $15,000",,st,abbv
+60,20024966,,,international business machines corporation common stock (ibm) [st],s,04/10/2024,,"$1,001 - $15,000",,st,ibm
+61,20024966,,,ishares international inflation-linked bond etf (itip) [st] f_____ s_____: new,s,04/10/2024,,"$1,001 - $15,000",,st,itip
+62,20024966,,,"merck & company, inc. common stock (mrk) [st]",s,04/10/2024,,"$1,001 - $15,000",,st,mrk
+63,20024188,,,daimler truck hldg s/adr (dtruy) [st] f_____ s_____: new s_________ o_: stephens advantage account,s,12/11/2023,,"$1,001 - $15,000",,st,dtruy
+64,20024188,,,"kyndryl holdings, inc. (kd) [st]",s,12/11/2023,,"$1,001 - $15,000",,st,kd
+65,20024754,,jt,berkshire hathaway inc. new common stock (brk.b) [st] f_____ s_____: new s_________ o_: vanguard joint retirement,s,03/28/2024,,"$15,001 - $50,000",,st,brk.b
+66,20024795,,,"new york community bancorp, inc. common stock (nycb) [st] f_____ s_____: new s_________ o_: judith s. clark irrevocable trust",s,03/01/2024,,"$1,001 - $15,000",,st,nycb
+67,20024795,,,"new york community bancorp, inc. common stock (nycb) [st]",s,03/01/2024,,"$1,001 - $15,000",,st,nycb
+68,20024347,,sp,"apollo medical holdings, inc. (ameh) [st] f_____ s_____: new",p,01/10/2024,,"$100,001 - $250,000",,st,ameh
+69,20024347,,sp,"apollo medical holdings, inc. (ameh) [st]",s,01/10/2024,,"$100,001 - $250,000",,st,ameh
+70,20024588,,,"ruane, cunniff, & goldfarb inc. [ps] f_____ s_____: new s_________ o_: katherine m. clark sep l_______: us d__________: investment adviserarate share trust",s,01/31/2024,,"$100,001 - $250,000",,ps,
+71,20023805,,,"myno carbon corp [ps] f_____ s_____: new s_________ o_: casten shared investm l_______: bainbridge island, wa, us d__________: carbon removal company.ents",p,06/25/2021,,"$15,001 - $50,000",,ps,
+72,20023805,,,myno carbon corp [ps],p,08/31/2021,,"$1,001 - $15,000",,ps,
+73,20023805,,,"myno carbon corp [ps] f_____ s_____: new s_________ o_: casten shared investm l_______: bainbridge island, wa, us d__________: carbon removal companyents",p,04/04/2023,,"$1,001 - $15,000",,ps,
+74,20024728,,jt,"dominion energy, inc. common stock (d) [st] f_____ s_____: new s_________ o_: tiaa joint",s,03/18/2024,,"$1,001 - $15,000",,st,d
+75,20024728,,jt,"leidos holdings, inc. common stock (ldos) [st]",s,03/18/2024,,"$1,001 - $15,000",,st,ldos
+76,20024728,,jt,science applications international corporation - common stock (saic) [st] f_____ s_____: new s_________ o_: tiaa joint,s,03/18/2024,,"$1,001 - $15,000",,st,saic
+77,20024495,,jt,"new jersey st transn tr fd auth transn 5.00% due dec 15, 2032 [gs]",s,02/01/2024,,"$500,001 - $1,000,000",,,
+78,20024581,,sp,microsoft corporation - common stock (msft) [st],s,02/29/2024,,"$100,001 - $250,000",,st,msft
+79,20024611,,,procter & gamble company (pg) [st] f_____ s_____: new d__________: reinvest shares,p,02/15/2024,,"$1,001 - $15,000",,st,pg
+80,20024268,,,coca-cola company (ko) [st] f_____ s_____: new d__________: reinvest shares,p,12/15/2023,,"$1,001 - $15,000",,st,ko
+81,20024268,,,"home depot, inc. (hd) [st]",p,12/14/2023,,"$1,001 - $15,000",,st,hd
+82,20024268,,,international business machines corporation (ibm) [st] f_____ s_____: new d__________: reinvest shares,p,12/11/2023,,"$1,001 - $15,000",,st,ibm
+83,20024268,,,johnson & johnson (jnj) [st],p,12/05/2023,,"$1,001 - $15,000",,st,jnj
+84,20024268,,,"ppg industries, inc. (ppg) [st] f_____ s_____: new d__________: reinvest shares",p,12/12/2023,,"$1,001 - $15,000",,st,ppg
+85,20024839,,,"home depot, inc. (hd) [st] f_____ s_____: new d__________: reinvest shares",p,03/21/2024,,"$1,001 - $15,000",,st,hd
+86,20024839,,,international business machines corporation common stock (ibm) [st],p,03/11/2024,,"$1,001 - $15,000",,st,ibm
+87,20024839,,,johnson & johnson common stock (jnj) [st] f_____ s_____: new d__________: reinvest shares,p,03/05/2024,,"$1,001 - $15,000",,st,jnj
+88,20024839,,,"ppg industries, inc. common stock (ppg) [st]",p,03/12/2024,,"$1,001 - $15,000",,st,ppg
+89,20025202,,,procter & gamble company (pg) [st] f_____ s_____: new d__________: reinvest shares,p,05/15/2024,,"$1,001 - $15,000",,st,pg
+90,20024324,,,"hannon armstrong sustainable infrastructure capital, inc. (hasi) [st] f_____ s_____: new s_________ o_: pershing llc",s,12/20/2023,,"$1,001 - $15,000",,st,hasi
+91,20024324,,,"micron technology, inc. (mu) [st]",p,12/20/2023,,"$1,001 - $15,000",,st,mu
+92,20024324,,,"servicenow, inc. (now) [st] f_____ s_____: new s_________ o_: pershing llc",p,12/20/2023,,"$1,001 - $15,000",,st,now
+93,20025104,,,"j p morgan chase & co depositary shares, each representing a 1/400th interest in a share of jpmorgan chase & co. 4.75% non-cumulative preferred stock, series gg (jpm$j) [st] f_____ s_____: new s_________ o_: ira #2",s,04/24/2024,,"$1,001 - $15,000",,st,jpm$j
+94,20025104,,,"wells fargo & company depositary shares, each representing a 1/1,000th interest in a share of non-cumulative perpetual class a preferred stock, series dd (wfc$d) [st]",s,04/24/2024,,"$1,001 - $15,000",,st,wfc$d
+95,20000788,,,"colgate-palmolive company common stock (cl) [st] f_____ s_____: new s_________ o_: raymond james ira d__________: tax deferred roll-over of ira into tsp. stock held in my i requirement at raymond james of $10,000, i was forced to sell the stockra at raymond j tsp rollover process, never touching or having access to the funds.s and then i rolle",s,08/25/2023,,"$1,001 - $15,000 ames. due to balanc d the balance into m",,st,cl
+96,20000788,,,"jd.com, inc. - american depositary shares (jd) [st]",s,08/25/2023,,"$1,001 - $15,000",,st,jd
+97,20024997,,,coca-cola company (ko) [st] f_____ s_____: new d__________: reinvest shares,p,04/01/2024,,"$1,001 - $15,000",,st,ko
+98,20024230,,jt,cross timbers royalty trust (crt) [st] f_____ s_____: new,p,12/08/2023,,"$1,001 - $15,000",,st,crt
+99,20024230,,jt,"duke energy corporation depositary shares, each representing a 1/1,000th interest in a share of 5.75% series a cumulative redeemable perpetual preferred stock (duk$a) [st]",p,12/19/2023,,"$1,001 - $15,000",,st,duk$a
+100,20024230,,jt,ellington financial inc. 7.00% series d cumulative perpetual redeemable preferred stock (efc$d) [st] f_____ s_____: new d__________: arlington asset manageme following merger.nt 7% preferred stock exchanged for ellington fi,e,12/14/2023,,"$15,001 - $50,000 nancial 7% preferred",,st,efc$d
+101,20024230,,jt,flex lng ltd. ordinary shares (flng) [st],p,12/04/2023,,"$1,001 - $15,000",,st,flng
+102,20024424,,jt,"altria group, inc. (mo) [st] f_____ s_____: new",p,01/11/2024,,"$1,001 - $15,000",,st,mo
+103,20024424,,jt,"altria group, inc. (mo) [st]",s,01/10/2024,,"$15,001 - $50,000",,st,mo
+104,20024424,,jt,"altria group, inc. (mo) [st] f_____ s_____: new",s,01/16/2024,,"$1,001 - $15,000",,st,mo
+105,20024424,,jt,cross timbers royalty trust (crt) [st],s,01/17/2024,,"$15,001 - $50,000",,st,crt
+106,20024424,,jt,"duke energy corporation depositary shares, each representing a 1/1,000th interest in a share of 5.75% series a cumulative redeemable perpetual preferred stock (duk$a) [st] f_____ s_____: new",p,01/16/2024,,"$1,001 - $15,000",,st,duk$a
+107,20024424,,jt,energy transfer lp common units (et) [st],p,01/16/2024,,"$15,001 - $50,000",,st,et
+108,20024424,,jt,energy transfer lp common units (et) [st] f_____ s_____: new,p,01/17/2024,,"$1,001 - $15,000",,st,et
+109,20024424,,jt,energy transfer lp common units (et) [st],p,01/18/2024,,"$1,001 - $15,000",,st,et
+110,20024424,,jt,"hercules capital, inc. (htgc) [st] f_____ s_____: new",p,01/16/2024,,"$15,001 - $50,000",,st,htgc
+111,20024424,,jt,schwab u.s. large-cap etf (schx) [st],p,01/08/2024,,"$1,001 - $15,000",,st,schx
+112,20024424,,jt,schwab u.s. large-cap etf (schx) [st] f_____ s_____: new,p,01/17/2024,,"$1,001 - $15,000",,st,schx
+113,20024596,,jt,"alliance resource partners, l.p. - common units representing limited partnership interests (arlp) [st] f_____ s_____: new",p,02/23/2024,,"$1,001 - $15,000",,st,arlp
+114,20024596,,jt,"alliance resource partners, l.p. - common units representing limited partnership interests (arlp) [st]",p,02/26/2024,,"$1,001 - $15,000",,st,arlp
+115,20024596,,jt,"alliance resource partners, l.p. - common units representing limited partnership interests (arlp) [st] f_____ s_____: new",p,02/15/2024,,"$1,001 - $15,000",,st,arlp
+116,20024596,,jt,ardmore shipping corporation common stock (asc) [st],p,02/05/2024,,"$1,001 - $15,000",,st,asc
+117,20024596,,jt,ardmore shipping corporation common stock (asc) [st] f_____ s_____: new,p,02/15/2024,,"$1,001 - $15,000",,st,asc
+118,20024596,,jt,ardmore shipping corporation common stock (asc) [st],p,02/23/2024,,"$1,001 - $15,000",,st,asc
+119,20024596,,jt,"at&t inc. depositary shares, each representing a 1/1,000th interest in a share of 5.000% perpetual preferred stock, series a (t$a) [st]",p,02/02/2024,,"$1,001 - $15,000",,st,t$a
+120,20024596,,jt,"duke energy corporation depositary shares, each representing a 1/1,000th interest in a share of 5.75% series a cumulative redeemable perpetual preferred stock (duk$a) [st] f_____ s_____: new",s,02/28/2024,,"$50,001 - $100,000",,st,duk$a
+121,20024596,,jt,energy transfer lp common units (et) [st],p,02/21/2024,,"$1,001 - $15,000",,st,et
+122,20024596,,jt,flex lng ltd. ordinary shares (flng) [st] f_____ s_____: new,p,02/02/2024,,"$1,001 - $15,000",,st,flng
+123,20024596,,jt,flex lng ltd. ordinary shares (flng) [st],p,02/07/2024,,"$1,001 - $15,000",,st,flng
+124,20024596,,jt,flex lng ltd. ordinary shares (flng) [st] f_____ s_____: new,p,02/09/2024,,"$1,001 - $15,000",,st,flng
+125,20024596,,jt,flex lng ltd. ordinary shares (flng) [st],p,02/23/2024,,"$1,001 - $15,000",,st,flng
+126,20024596,,jt,flex lng ltd. ordinary shares (flng) [st] f_____ s_____: new,p,02/26/2024,,"$1,001 - $15,000",,st,flng
+127,20024596,,jt,"hercules capital, inc. common stock (htgc) [st]",p,02/01/2024,,"$1,001 - $15,000",,st,htgc
+128,20024996,,,ardmore shipping corporation common stock (asc) [st] f_____ s_____: new,p,04/09/2024,,"$1,001 - $15,000",,st,asc
+129,20024996,,,ellington financial inc. 7.00% series d cumulative perpetual redeemable preferred stock (efc$d) [st],p,04/02/2024,,"$1,001 - $15,000",,st,efc$d
+130,20024996,,,energy transfer lp common units (et) [st] f_____ s_____: new,p,04/30/2024,,"$1,001 - $15,000",,st,et
+131,20024996,,,"hercules capital, inc. common stock (htgc) [st]",p,04/16/2024,,"$1,001 - $15,000",,st,htgc
+132,20024825,,jt,ardmore shipping corporation common stock (asc) [st] f_____ s_____: new,p,03/04/2024,,"$1,001 - $15,000",,st,asc
+133,20024825,,jt,ardmore shipping corporation common stock (asc) [st],p,03/06/2024,,"$1,001 - $15,000",,st,asc
+134,20024825,,jt,"hercules capital, inc. common stock (htgc) [st] f_____ s_____: new",p,03/07/2024,,"$1,001 - $15,000",,st,htgc
+135,20025200,,,"alliance resource partners, l.p. - common units representing limited partnership interests (arlp) [st] f_____ s_____: new",p,05/15/2024,,"$1,001 - $15,000",,st,arlp
+136,20025200,,,"at&t inc. depositary shares, each representing a 1/1,000th interest in a share of 5.000% perpetual preferred stock, series a (t$a) [st]",p,05/01/2024,,"$1,001 - $15,000",,st,t$a
+137,20025200,,,energy transfer lp common units (et) [st] f_____ s_____: new,p,05/01/2024,,"$1,001 - $15,000",,st,et
+138,20025200,,,energy transfer lp common units (et) [st],p,05/02/2024,,"$1,001 - $15,000",,st,et
+139,20025200,,,energy transfer lp common units (et) [st] f_____ s_____: new,p,05/20/2024,,"$1,001 - $15,000",,st,et
+140,20025200,,,"hercules capital, inc. common stock (htgc) [st]",p,05/21/2024,,"$1,001 - $15,000",,st,htgc
+141,20025170,,jt,"the baldwin insurance group, inc. - class a common stock (brp) [st] f_____ s_____: new s_________ o_: fidelity joint tbe",s,05/08/2024,,"$500,001 - $1,000,000",,st,brp
+142,20025035,,,johnson controls international plc ordinary share (jci) [st] f_____ s_____: amended s_________ o_: morgan stanley ira- x141,s,05/24/2023,,"$1,001 - $15,000",,st,jci
+143,20024916,,jt,"brp group, inc. - class a common stock (brp) [st] f_____ s_____: new s_________ o_: fidelity joint tbe d__________: 54,445 shares of brp soldon 3/21/24 at average price of $30.04 for $1,635,",s,03/21/2024,,"$1,000,001 - $5,000,000 630.16.",,st,brp
+144,20024916,,jt,"brp group, inc. - class a common stock (brp) [st]",s,04/09/2024,,"$1,001 - $15,000",,st,brp
+145,20024517,,,"coinbase global, inc. - class a common stock (coin) [st] f_____ s_____: new d__________: sale of entire stock holdingof this security totaling less than $5k.",s,01/19/2024,,"$1,001 - $15,000",,st,coin
+146,20024062,,,energy transfer lp common units (et) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,12/06/2023,,"$1,001 - $15,000",,st,et
+147,20024062,,,ngl energy partners lp common units representing limited partner interests (ngl) [st],s,01/11/2024,,"$100,001 - $250,000",,st,ngl
+148,20024572,,,ngl energy partners lp common units representing limited partner interests (ngl) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,02/26/2024,,"$50,001 - $100,000",,st,ngl
+149,20024413,,,ngl energy partners lp common units representing limited partner interests (ngl) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,01/29/2024,,"$100,001 - $250,000",,st,ngl
+150,20025207,,jt,"alamo group, inc. common stock (alg) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,05/06/2024,,"$1,001 - $15,000",,st,alg
+151,20025207,,jt,"align technology, inc. - common stock (algn) [st]",s,05/20/2024,,"$1,001 - $15,000",,st,algn
+152,20025207,,jt,alphabet inc. - class c capital stock (goog) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,05/03/2024,,"$1,001 - $15,000",,st,goog
+153,20025207,,jt,"amerisafe, inc. - common stock (amsf) [st]",s,05/29/2024,,"$1,001 - $15,000",,st,amsf
+154,20025207,,jt,blackstone inc. common stock (bx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,05/20/2024,,"$1,001 - $15,000",,st,bx
+155,20025207,,jt,booking holdings inc. - common stock (bkng) [st],p,05/20/2024,,"$1,001 - $15,000",,st,bkng
+156,20025207,,jt,coloplast as sp/adr (clpby) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,05/17/2024,,"$1,001 - $15,000",,st,clpby
+157,20025207,,jt,exact sciences corporation - common stock (exas) [st],s,05/10/2024,,"$1,001 - $15,000",,st,exas
+158,20025207,,jt,"grand canyon education, inc. - common stock (lope) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,05/06/2024,,"$1,001 - $15,000",,st,lope
+159,20025207,,jt,haleon plc american depositary shares (hln) [st],p,05/20/2024,,"$1,001 - $15,000",,st,hln
+160,20025207,,jt,insmed incorporated - common stock (insm) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,05/28/2024,,"$1,001 - $15,000",,st,insm
+161,20025207,,jt,"intapp, inc. - common stock (inta) [st]",p,05/09/2024,,"$1,001 - $15,000",,st,inta
+162,20025207,,jt,kkr & co. inc. common stock (kkr) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,05/10/2024,,"$1,001 - $15,000",,st,kkr
+163,20025207,,jt,"lowe's companies, inc. common stock (low) [st]",s,05/01/2024,,"$1,001 - $15,000",,st,low
+164,20025207,,jt,"mercadolibre, inc. - common stock (meli) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,05/01/2024,,"$1,001 - $15,000",,st,meli
+165,20025207,,jt,"meta platforms, inc. - class a common stock (meta) [st]",s,05/23/2024,,"$1,001 - $15,000",,st,meta
+166,20025207,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfo d__________: call options; strike price $lio managementactive assets a c_______: ref: 135p8w76225; expires 06/20/2025ccount,p,05/14/2024,,"$1,000,001 - $5,000,000",,op,msft
+167,20025207,,jt,microsoft corporation - common stock (msft) [op],p,05/14/2024,,"$1,000,001 - $5,000,000",,op,msft
+168,20025207,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfolio managementactive assets a d__________: call options; strike price $230; expires 12/19/2025ccount,s,05/14/2024,,"$1,000,001 - $5,000,000",,op,msft
+169,20025207,,jt,microsoft corporation - common stock (msft) [op],s,05/14/2024,,"$1,000,001 - $5,000,000",,op,msft
+170,20025207,,jt,monster beverage corporation - common stock (mnst) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,05/20/2024,,"$1,001 - $15,000",,st,mnst
+171,20025207,,jt,nintendo co ltd adr (ntdoy) [st],p,05/22/2024,,"$1,001 - $15,000",,st,ntdoy
+172,20025207,,jt,"rapid7, inc. - common stock (rpd) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,05/15/2024,,"$1,001 - $15,000",,st,rpd
+173,20025207,,jt,"salesforce, inc. common stock (crm) [st]",s,05/30/2024,,"$1,001 - $15,000",,st,crm
+174,20025207,,jt,"springworks therapeutics, inc. - common stock (swtx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,05/09/2024,,"$1,001 - $15,000",,st,swtx
+175,20025207,,jt,sysmex corp unsp/asdr (ssmxy) [st],p,05/06/2024,,"$1,001 - $15,000",,st,ssmxy
+176,20025207,,jt,sysmex corp unsp/asdr (ssmxy) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,05/02/2024,,"$1,001 - $15,000",,st,ssmxy
+177,20025207,,jt,"tesla, inc. - common stock (tsla) [st]",p,05/01/2024,,"$1,001 - $15,000",,st,tsla
+178,20025207,,jt,"texas roadhouse, inc. - common stock (txrh) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,05/06/2024,,"$1,001 - $15,000",,st,txrh
+179,20025207,,jt,"the baldwin insurance group, inc. - class a common stock (bwin) [st]",p,05/29/2024,,"$1,001 - $15,000",,st,bwin
+180,20025207,,jt,"uber technologies, inc. common stock (uber) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,05/07/2024,,"$1,001 - $15,000",,st,uber
+181,20025207,,jt,umb financial corporation - common stock (umbf) [st],p,05/22/2024,,"$1,001 - $15,000",,st,umbf
+182,20024461,,jt,"advanced micro devices, inc. (amd) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/24/2024,,"$1,001 - $15,000",,st,amd
+183,20024461,,jt,"agios pharmaceuticals, inc. - common stock (agio) [st]",p,01/24/2024,,"$1,001 - $15,000",,st,agio
+184,20024461,,jt,"air products and chemicals, inc. common stock (apd) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/18/2024,,"$1,001 - $15,000",,st,apd
+185,20024461,,jt,"allegro microsystems, inc. - common stock (algm) [st]",p,01/11/2024,,"$1,001 - $15,000",,st,algm
+186,20024461,,jt,"alnylam pharmaceuticals, inc. - common stock (alny) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/11/2024,,"$1,001 - $15,000",,st,alny
+187,20024461,,jt,"alnylam pharmaceuticals, inc. - common stock (alny) [st]",s,01/29/2024,,"$1,001 - $15,000",,st,alny
+188,20024461,,jt,amphenol corporation common stock (aph) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,01/25/2024,,"$1,001 - $15,000",,st,aph
+189,20024461,,jt,apple inc. - common stock (aapl) [st],s,01/18/2024,,"$1,001 - $15,000",,st,aapl
+190,20024461,,jt,asbury automotive group inc common stock (abg) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,01/24/2024,,"$1,001 - $15,000",,st,abg
+191,20024461,,jt,charles schwab corporation (schw) [st],p,01/12/2024,,"$1,001 - $15,000",,st,schw
+192,20024461,,jt,"chart industries, inc. (gtls) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/11/2024,,"$1,001 - $15,000",,st,gtls
+193,20024461,,jt,chord energy corporation - common stock (chrd) [st],p,01/24/2024,,"$1,001 - $15,000",,st,chrd
+194,20024461,,jt,credicorp ltd. common stock (bap) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,01/11/2024,,"$1,001 - $15,000",,st,bap
+195,20024461,,jt,een energy hldgs unsp/adr (xngsy) [st],p,01/11/2024,,"$1,001 - $15,000",,st,xngsy
+196,20024461,,jt,"grand canyon education, inc. - common stock (lope) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,01/09/2024,,"$1,001 - $15,000",,st,lope
+197,20024461,,jt,haier smart home u/adr (hshcy) [st],p,01/11/2024,,"$1,001 - $15,000",,st,hshcy
+198,20024461,,jt,helen of troy limited - common stock (hele) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,01/11/2024,,"$1,001 - $15,000",,st,hele
+199,20024461,,jt,"intuitive surgical, inc. - common stock (isrg) [st]",p,01/29/2024,,"$1,001 - $15,000",,st,isrg
+200,20024461,,jt,lam research corporation - common stock (lrcx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,01/25/2024,,"$1,001 - $15,000",,st,lrcx
+201,20024461,,jt,"lithia motors, inc. common stock (lad) [st]",s,01/24/2024,,"$1,001 - $15,000",,st,lad
+202,20024461,,jt,"lowe's companies, inc. common stock (low) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,01/24/2024,,"$1,001 - $15,000",,st,low
+203,20024461,,jt,"medpace holdings, inc. - common stock (medp) [st]",s,01/24/2024,,"$1,001 - $15,000",,st,medp
+204,20024461,,jt,microsoft corporation - common stock (msft) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,01/18/2024,,"$1,001 - $15,000",,st,msft
+205,20024461,,jt,nitori holdings co u/adr (nclty) [st],s,01/11/2024,,"$1,001 - $15,000",,st,nclty
+206,20024461,,jt,oceanfirst financial corp. - common stock (ocfc) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,01/11/2024,,"$1,001 - $15,000",,st,ocfc
+207,20024461,,jt,on semiconductor corporation - common stock (on) [st],p,01/11/2024,,"$1,001 - $15,000",,st,on
+208,20024461,,jt,on semiconductor corporation - common stock (on) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,01/25/2024,,"$1,001 - $15,000",,st,on
+209,20024461,,jt,"patterson-uti energy, inc. - common stock (pten) [st]",p,01/11/2024,,"$1,001 - $15,000",,st,pten
+210,20024461,,jt,"paycor hcm, inc. - common stock (pycr) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/11/2024,,"$1,001 - $15,000",,st,pycr
+211,20024461,,jt,ping an ins co of china (pngay) [st],p,01/11/2024,,"$1,001 - $15,000",,st,pngay
+212,20024461,,jt,"servicenow, inc. common stock (now) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/25/2024,,"$1,001 - $15,000",,st,now
+213,20024461,,jt,shiseido co ltd ord american depositary shares (ssdoy) [st],p,01/11/2024,,"$1,001 - $15,000",,st,ssdoy
+214,20024461,,jt,"shoals technologies group, inc. - class a common stock (shls) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/11/2024,,"$1,001 - $15,000",,st,shls
+215,20024461,,jt,"spx technologies, inc. common stock (spxc) [st]",s,01/04/2024,,"$1,001 - $15,000",,st,spxc
+216,20024461,,jt,taiwan semiconductor manufacturing company ltd. (tsm) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,01/18/2024,,"$1,001 - $15,000",,st,tsm
+217,20024461,,jt,"tesla, inc. - common stock (tsla) [st]",s,01/25/2024,,"$1,001 - $15,000",,st,tsla
+218,20024461,,jt,"tri pointe homes, inc. common stock (tph) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,01/24/2024,,"$1,001 - $15,000",,st,tph
+219,20024677,,,ngl energy partners lp common units representing limited partner interests (ngl) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,03/11/2024,,"$15,001 - $50,000",,st,ngl
+220,20024801,,jt,adobe inc. - common stock (adbe) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/15/2024,,"$1,001 - $15,000",,st,adbe
+221,20024801,,jt,adobe inc. - common stock (adbe) [st],s,03/13/2024,,"$1,001 - $15,000",,st,adbe
+222,20024801,,jt,"advanced micro devices, inc. (amd) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,03/18/2024,,"$1,001 - $15,000",,st,amd
+223,20024801,,jt,"advanced micro devices, inc. (amd) [st]",p,03/15/2024,,"$1,001 - $15,000",,st,amd
+224,20024801,,jt,agree realty corporation common stock (adc) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/14/2024,,"$1,001 - $15,000",,st,adc
+225,20024801,,jt,apple inc. - common stock (aapl) [st],s,03/22/2024,,"$1,001 - $15,000",,st,aapl
+226,20024801,,jt,apple inc. - common stock (aapl) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/15/2024,,"$1,001 - $15,000",,st,aapl
+227,20024801,,jt,bhp group limited american depositary shares (bhp) [st],s,03/12/2024,,"$1,001 - $15,000",,st,bhp
+228,20024801,,jt,biontech se - american depositary shares (bntx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/14/2024,,"$1,001 - $15,000",,st,bntx
+229,20024801,,jt,"block, inc. class a common stock, (sq) [st]",p,03/21/2024,,"$1,001 - $15,000",,st,sq
+230,20024801,,jt,"cbiz, inc. common stock (cbz) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,03/07/2024,,"$1,001 - $15,000",,st,cbz
+231,20024801,,jt,"d.r. horton, inc. common stock (dhi) [st]",p,03/14/2024,,"$1,001 - $15,000",,st,dhi
+232,20024801,,jt,"d.r. horton, inc. common stock (dhi) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,03/07/2024,,"$1,001 - $15,000",,st,dhi
+233,20024801,,jt,dassault systemes sa adr (dasty) [st],p,03/13/2024,,"$1,001 - $15,000",,st,dasty
+234,20024801,,jt,"eaton corporation, plc ordinary shares (etn) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,03/13/2024,,"$1,001 - $15,000",,st,etn
+235,20024801,,jt,een energy hldgs unsp/adr (xngsy) [st],p,03/26/2024,,"$1,001 - $15,000",,st,xngsy
+236,20024801,,jt,endava plc american depositary shares (dava) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/14/2024,,"$1,001 - $15,000",,st,dava
+237,20024801,,jt,fox factory holding corp. - common stock (foxf) [st],s,03/14/2024,,"$1,001 - $15,000",,st,foxf
+238,20024801,,jt,haier smart home u/adr (hshcy) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/14/2024,,"$1,001 - $15,000",,st,hshcy
+239,20024801,,jt,"hca healthcare, inc. common stock (hca) [st]",s,03/01/2024,,"$1,001 - $15,000",,st,hca
+240,20024801,,jt,"intapp, inc. - common stock (inta) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,03/14/2024,,"$1,001 - $15,000",,st,inta
+241,20024801,,jt,marriott international - class a common stock (mar) [st],s,03/13/2024,,"$1,001 - $15,000",,st,mar
+242,20024801,,jt,"mercadolibre, inc. - common stock (meli) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,03/15/2024,,"$1,001 - $15,000",,st,meli
+243,20024801,,jt,"mercadolibre, inc. - common stock (meli) [st]",p,03/12/2024,,"$1,001 - $15,000",,st,meli
+244,20024801,,jt,oceanfirst financial corp. - common stock (ocfc) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/14/2024,,"$1,001 - $15,000",,st,ocfc
+245,20024801,,jt,perella weinberg partners - class a common stock (pwp) [st],p,03/07/2024,,"$1,001 - $15,000",,st,pwp
+246,20024801,,jt,"salesforce, inc. common stock (crm) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,03/13/2024,,"$1,001 - $15,000",,st,crm
+247,20024801,,jt,shiseido co ltd ord american depositary shares (ssdoy) [st],s,03/13/2024,,"$1,001 - $15,000",,st,ssdoy
+248,20024801,,jt,"shoals technologies group, inc. - class a common stock (shls) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,03/14/2024,,"$1,001 - $15,000",,st,shls
+249,20024801,,jt,"synopsys, inc. - common stock (snps) [st]",s,03/13/2024,,"$1,001 - $15,000",,st,snps
+250,20024801,,jt,taiwan semiconductor manufacturing company ltd. (tsm) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,03/12/2024,,"$1,001 - $15,000",,st,tsm
+251,20024801,,jt,"tesla, inc. - common stock (tsla) [st]",s,03/15/2024,,"$1,001 - $15,000",,st,tsla
+252,20025020,,jt,adobe inc. - common stock (adbe) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,04/29/2024,,"$1,001 - $15,000",,st,adbe
+253,20025020,,jt,agree realty corporation common stock (adc) [st],p,04/15/2024,,"$1,001 - $15,000",,st,adc
+254,20025020,,jt,alphabet inc. - class c capital stock (goog) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/29/2024,,"$1,001 - $15,000",,st,goog
+255,20025020,,jt,alphabet inc. - class c capital stock (goog) [st],p,04/26/2024,,"$1,001 - $15,000",,st,goog
+256,20025020,,jt,biontech se - american depositary shares (bntx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/15/2024,,"$1,001 - $15,000",,st,bntx
+257,20025020,,jt,chugai pharm unsp/adr (chgcy) [st],s,04/04/2024,,"$1,001 - $15,000",,st,chgcy
+258,20025020,,jt,cognizant technology solutions corporation - class a common stock (ctsh) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,04/29/2024,,"$1,001 - $15,000",,st,ctsh
+259,20025020,,jt,endava plc american depositary shares (dava) [st],p,04/15/2024,,"$1,001 - $15,000",,st,dava
+260,20025020,,jt,fair isaac corproation common stock (fico) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/29/2024,,"$1,001 - $15,000",,st,fico
+261,20025020,,jt,fastenal company - common stock (fast) [st],s,04/05/2024,,"$1,001 - $15,000",,st,fast
+262,20025020,,jt,fox factory holding corp. - common stock (foxf) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/15/2024,,"$1,001 - $15,000",,st,foxf
+263,20025020,,jt,"freeport-mcmoran, inc. common stock (fcx) [st]",p,04/29/2024,,"$1,001 - $15,000",,st,fcx
+264,20025020,,jt,hillman solutions corp. - common stock (hlmn) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/25/2024,,"$1,001 - $15,000",,st,hlmn
+265,20025020,,jt,"intapp, inc. - common stock (inta) [st]",p,04/15/2024,,"$1,001 - $15,000",,st,inta
+266,20025020,,jt,nestle s.a s/adr (nsrgy) [st],p,04/10/2024,,"$1,001 - $15,000",,st,nsrgy
+267,20025020,,jt,oceanfirst financial corp. - common stock (ocfc) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/15/2024,,"$1,001 - $15,000",,st,ocfc
+268,20025020,,jt,"paragon 28, inc. common stock (fna) [st]",p,04/05/2024,,"$1,001 - $15,000",,st,fna
+269,20025020,,jt,"shoals technologies group, inc. - class a common stock (shls) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,04/15/2024,,"$1,001 - $15,000",,st,shls
+270,20025020,,jt,shopify inc. class a subordinate voting shares (shop) [st],s,04/29/2024,,"$1,001 - $15,000",,st,shop
+271,20025020,,jt,tencent hldgs unsp/adr (tcehy) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/30/2024,,"$1,001 - $15,000",,st,tcehy
+272,20025020,,jt,terex corporation common stock (tex) [st],s,04/25/2024,,"$1,001 - $15,000",,st,tex
+273,20025020,,jt,"tesla, inc. - common stock (tsla) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,04/24/2024,,"$1,001 - $15,000",,st,tsla
+274,20025020,,jt,"tesla, inc. - common stock (tsla) [st]",p,04/29/2024,,"$1,001 - $15,000",,st,tsla
+275,20025020,,jt,"uber technologies, inc. common stock (uber) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,04/24/2024,,"$1,001 - $15,000",,st,uber
+276,20025020,,jt,"vertiv holdings, llc class a common stock (vrt) [st]",p,04/29/2024,,"$1,001 - $15,000",,st,vrt
+277,20025020,,jt,"workday, inc. - class a common stock (wday) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,04/29/2024,,"$1,001 - $15,000",,st,wday
+278,20025020,,jt,zto express (zto) [st],p,04/17/2024,,"$1,001 - $15,000",,st,zto
+279,20025020,,jt,zto express (zto) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,04/16/2024,,"$1,001 - $15,000",,st,zto
+280,20024248,,jt,"advanced micro devices, inc. (amd) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,12/20/2023,,"$1,001 - $15,000",,st,amd
+281,20024248,,jt,"allegro microsystems, inc. (algm) [st]",s,12/11/2023,,"$1,001 - $15,000",,st,algm
+282,20024248,,jt,"alnylam pharmaceuticals, inc. (alny) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,12/11/2023,,"$1,001 - $15,000",,st,alny
+283,20024248,,jt,alphabet inc. - class c capital stock (goog) [st],s,12/01/2023,,"$1,001 - $15,000",,st,goog
+284,20024248,,jt,biontech se - american depositary shares (bntx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,12/06/2023,,"$1,001 - $15,000",,st,bntx
+285,20024248,,jt,biontech se - american depositary shares (bntx) [st],p,12/05/2023,,"$1,001 - $15,000",,st,bntx
+286,20024248,,jt,biontech se - american depositary shares (bntx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,12/07/2023,,"$1,001 - $15,000",,st,bntx
+287,20024248,,jt,"celsius holdings, inc. (celh) [st]",p,12/04/2023,,"$1,001 - $15,000",,st,celh
+288,20024248,,jt,"chart industries, inc. (gtls) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,12/11/2023,,"$1,001 - $15,000",,st,gtls
+289,20024248,,jt,conocophillips (cop) [st],s,12/20/2023,,"$1,001 - $15,000",,st,cop
+290,20024248,,jt,credicorp ltd. (bap) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/11/2023,,"$1,001 - $15,000",,st,bap
+291,20024248,,jt,"d.r. horton, inc. (dhi) [st]",p,12/11/2023,,"$1,001 - $15,000",,st,dhi
+292,20024248,,jt,dbs group holdings ltd ord american depositary shares (dbsdy) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,12/21/2023,,"$1,001 - $15,000",,st,dbsdy
+293,20024248,,jt,edwards lifesciences corporation (ew) [st],p,12/11/2023,,"$1,001 - $15,000",,st,ew
+294,20024248,,jt,enn energy holdings ltd unsponsored adr (xngsy) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/11/2023,,"$1,001 - $15,000",,st,xngsy
+295,20024248,,jt,fanuc corporation unsponsored adr (fanuy) [st],s,12/06/2023,,"$1,001 - $15,000",,st,fanuy
+296,20024248,,jt,"grand canyon education, inc. (lope) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,12/20/2023,,"$1,001 - $15,000",,st,lope
+297,20024248,,jt,haier smart home u/adr (hshcy) [st],s,12/11/2023,,"$1,001 - $15,000",,st,hshcy
+298,20024248,,jt,helen of troy limited (hele) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/11/2023,,"$1,001 - $15,000",,st,hele
+299,20024248,,jt,"houlihan lokey, inc. class a (hli) [st]",s,12/20/2023,,"$1,001 - $15,000",,st,hli
+300,20024248,,jt,"intapp, inc. (inta) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,12/20/2023,,"$1,001 - $15,000",,st,inta
+301,20024248,,jt,kering unsponsored adr (ppruy) [st],s,12/05/2023,,"$1,001 - $15,000",,st,ppruy
+302,20024248,,jt,lonza group ag zuerich unsponsored adr (lzagy) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/05/2023,,"$1,001 - $15,000",,st,lzagy
+303,20024248,,jt,lonza group ag zuerich unsponsored adr (lzagy) [st],s,12/21/2023,,"$1,001 - $15,000",,st,lzagy
+304,20024248,,jt,mastercard incorporated (ma) [st],s,12/20/2023,,"$1,001 - $15,000",,st,ma
+305,20024248,,jt,monster beverage corporation (mnst) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/04/2023,,"$1,001 - $15,000",,st,mnst
+306,20024248,,jt,northrop grumman corporation (noc) [st],p,12/29/2023,,"$15,001 - $50,000",,st,noc
+307,20024248,,jt,oceanfirst financial corp. (ocfc) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/11/2023,,"$1,001 - $15,000",,st,ocfc
+308,20024248,,jt,on semiconductor corporation (on) [st],s,12/11/2023,,"$1,001 - $15,000",,st,on
+309,20024248,,jt,oracle corporation (orcl) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/14/2023,,"$1,001 - $15,000",,st,orcl
+310,20024248,,jt,"patterson-uti energy, inc. (pten) [st]",s,12/11/2023,,"$1,001 - $15,000",,st,pten
+311,20024248,,jt,"paycor hcm, inc. (pycr) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,12/11/2023,,"$1,001 - $15,000",,st,pycr
+312,20024248,,jt,ping an insurance (pngay) [st],s,12/11/2023,,"$1,001 - $15,000",,st,pngay
+313,20024248,,jt,"salesforce, inc. (crm) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,12/01/2023,,"$1,001 - $15,000",,st,crm
+314,20024248,,jt,schneider electric se unsponsored adr (sbgsy) [st],s,12/05/2023,,"$1,001 - $15,000",,st,sbgsy
+315,20024248,,jt,shiseido co ltd ord american depositary shares (ssdoy) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,12/11/2023,,"$1,001 - $15,000",,st,ssdoy
+316,20024248,,jt,"shoals technologies group, inc. - class a (shls) [st]",s,12/11/2023,,"$1,001 - $15,000",,st,shls
+317,20024248,,jt,sony group corporation american depositary shares (sony) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,12/06/2023,,"$1,001 - $15,000",,st,sony
+318,20024248,,jt,"the vita coco company, inc. (coco) [st]",p,12/01/2023,,"$1,001 - $15,000",,st,coco
+319,20024248,,jt,"tri pointe homes, inc. (tph) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,12/20/2023,,"$1,001 - $15,000",,st,tph
+320,20024248,,jt,umb financial corporation (umbf) [st],p,12/20/2023,,"$1,001 - $15,000",,st,umbf
+321,20025064,,,ngl energy partners lp common units representing limited partner interests (ngl) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,05/07/2024,,"$250,001 - $500,000",,st,ngl
+322,20025064,,,ngl energy partners lp common units representing limited partner interests (ngl) [st],s,05/10/2024,,"$15,001 - $50,000",,st,ngl
+323,20024954,,,ngl energy partners lp common units representing limited partner interests (ngl) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,04/25/2024,,"$100,001 - $250,000",,st,ngl
+324,20025255,,,ngl energy partners lp common units representing limited partner interests (ngl) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,06/03/2024,,"$100,001 - $250,000",,st,ngl
+325,20024612,,jt,"advanced micro devices, inc. (amd) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",p,02/22/2024,,"$1,001 - $15,000",,st,amd
+326,20024612,,jt,booking holdings inc. - common stock (bkng) [st],p,02/09/2024,,"$1,001 - $15,000",,st,bkng
+327,20024612,,jt,booking holdings inc. - common stock (bkng) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,p,02/08/2024,,"$1,001 - $15,000",,st,bkng
+328,20024612,,jt,charles schwab corporation (schw) [st],s,02/01/2024,,"$1,001 - $15,000",,st,schw
+329,20024612,,jt,"cheniere energy, inc. common stock (lng) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,02/01/2024,,"$1,001 - $15,000",,st,lng
+330,20024612,,jt,chord energy corporation - common stock (chrd) [st],p,02/13/2024,,"$1,001 - $15,000",,st,chrd
+331,20024612,,jt,cognizant technology solutions corporation - class a common stock (ctsh) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,02/12/2024,,"$1,001 - $15,000",,st,ctsh
+332,20024612,,jt,dbs group hldgs ltd s/adr (dbsdy) [st],p,02/13/2024,,"$1,001 - $15,000",,st,dbsdy
+333,20024612,,jt,deere & company common stock (de) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,02/01/2024,,"$1,001 - $15,000",,st,de
+334,20024612,,jt,eli lilly and company common stock (lly) [st],s,02/08/2024,,"$1,001 - $15,000",,st,lly
+335,20024612,,jt,exact sciences corporation - common stock (exas) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,02/01/2024,,"$1,001 - $15,000",,st,exas
+336,20024612,,jt,"first solar, inc. - common stock (fslr) [st]",s,02/01/2024,,"$1,001 - $15,000",,st,fslr
+337,20024612,,jt,"freeport-mcmoran, inc. common stock (fcx) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,02/29/2024,,"$1,001 - $15,000",,st,fcx
+338,20024612,,jt,kkr & co. inc. common stock (kkr) [st],p,02/08/2024,,"$1,001 - $15,000",,st,kkr
+339,20024612,,jt,"meta platforms, inc. - class a common stock (meta) [st]",s,02/08/2024,,"$1,001 - $15,000",,st,meta
+340,20024612,,jt,microsoft corporation - common stock (msft) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,02/08/2024,,"$1,001 - $15,000",,st,msft
+341,20024612,,jt,microsoft corporation - common stock (msft) [op],p,02/13/2024,,"$500,001 - $1,000,000",,op,msft
+342,20024612,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfo d__________: call options; strike price $lio managementactive assets a c_______: ref: 043ik92l170; expires 01/17/2025ccount,p,02/12/2024,,"$1,000,001 - $5,000,000",,op,msft
+343,20024612,,jt,microsoft corporation - common stock (msft) [op],p,02/13/2024,,"$1,000,001 - $5,000,000",,op,msft
+344,20024612,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfo d__________: call options; strike price $lio managementactive assets a c_______: ref: 043ik90l165; expires 01/17/2025ccount,p,02/12/2024,,"$1,000,001 - $5,000,000",,op,msft
+345,20024612,,jt,microsoft corporation - common stock (msft) [op],p,02/12/2024,,"$500,001 - $1,000,000",,op,msft
+346,20024612,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfo d__________: call options; strike price $lio managementactive assets a c_______: ref: 043ik86l165; expires 01/17/2025ccount,p,02/12/2024,,"$1,000,001 - $5,000,000",,op,msft
+347,20024612,,jt,microsoft corporation - common stock (msft) [op],p,02/12/2024,,"$1,000,001 - $5,000,000",,op,msft
+348,20024612,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfolio managementactive assets a d__________: call options; strike price $240; expires 06/20/2025ccount,s,02/13/2024,,"$1,000,001 - $5,000,000",,op,msft
+349,20024612,,jt,microsoft corporation - common stock (msft) [op],s,02/13/2024,,"$500,001 - $1,000,000",,op,msft
+350,20024612,,jt,microsoft corporation - common stock (msft) [st] f_____ s_____: new s_________ o_: morgan stanley - portfolio managementactive assets account,s,02/12/2024,,"$1,000,001 - $5,000,000",,st,msft
+351,20024612,,jt,microsoft corporation - common stock (msft) [op],s,02/12/2024,,"$1,000,001 - $5,000,000",,op,msft
+352,20024612,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfolio managementactive assets a d__________: call options; strike price $230; expires 06/20/2025ccount,s,02/12/2024,,"$1,000,001 - $5,000,000",,op,msft
+353,20024612,,jt,microsoft corporation - common stock (msft) [op],s,02/12/2024,,"$500,001 - $1,000,000",,op,msft
+354,20024612,,jt,microsoft corporation - common stock (msft) [op] f_____ s_____: new s_________ o_: morgan stanley - portfolio managementactive assets a d__________: call options; strike price $220; expires 06/20/2025ccount,s,02/12/2024,,"$1,000,001 - $5,000,000",,op,msft
+355,20024612,,jt,"moderna, inc. - common stock (mrna) [st]",s,02/01/2024,,"$1,001 - $15,000",,st,mrna
+356,20024612,,jt,"mongodb, inc. - class a common stock (mdb) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,02/08/2024,,"$1,001 - $15,000",,st,mdb
+357,20024612,,jt,morgan stanley common stock (ms) [st],s,02/01/2024,,"$1,001 - $15,000",,st,ms
+358,20024612,,jt,msci inc. common stock (msci) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,02/01/2024,,"$1,001 - $15,000",,st,msci
+359,20024612,,jt,"netflix, inc. - common stock (nflx) [st]",s,02/08/2024,,"$1,001 - $15,000",,st,nflx
+360,20024612,,jt,nvidia corporation - common stock (nvda) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,02/08/2024,,"$1,001 - $15,000",,st,nvda
+361,20024612,,jt,"palo alto networks, inc. (panw) [st]",s,02/21/2024,,"$1,001 - $15,000",,st,panw
+362,20024612,,jt,"regeneron pharmaceuticals, inc. - common stock (regn) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1",s,02/08/2024,,"$1,001 - $15,000",,st,regn
+363,20024612,,jt,taiwan semiconductor manufacturing company ltd. (tsm) [st],s,02/09/2024,,"$1,001 - $15,000",,st,tsm
+364,20024612,,jt,terex corporation common stock (tex) [st] f_____ s_____: new s_________ o_: morgan stanley - selectuma account #1,s,02/13/2024,,"$1,001 - $15,000",,st,tex
+365,20024612,,jt,"the trade desk, inc. - class a common stock (ttd) [st]",s,02/01/2024,,"$1,001 - $15,000",,st,ttd
+366,20024800,,,ngl energy partners lp common units representing limited partner interests (ngl) [st] f_____ s_____: new s_________ o_: equitable retirement account,s,04/01/2024,,"$100,001 - $250,000",,st,ngl
+367,20024622,,sp,nvidia corporation - common stock (nvda) [st] f_____ s_____: new s_________ o_: cp - inv,p,02/20/2024,,"$1,001 - $15,000",,st,nvda
+368,20024924,,,berkshire hathaway inc. new common stock (brk.b) [st] f_____ s_____: new,p,04/24/2024,,"$1,001 - $15,000",,st,brk.b
+369,20024924,,,"goldman sachs group, inc. (gs) [st]",p,04/24/2024,,"$1,001 - $15,000",,st,gs
+370,20024924,,,"home depot, inc. (hd) [st] f_____ s_____: new",p,04/24/2024,,"$1,001 - $15,000",,st,hd
+371,20024924,,,microsoft corporation - common stock (msft) [st] f_____ s_____: new,p,04/24/2024,,"$1,001 - $15,000",,st,msft
+372,20024924,,,qualcomm incorporated - common stock (qcom) [st],p,04/24/2024,,"$1,001 - $15,000",,st,qcom
+373,20024924,,,the hershey company common stock (hsy) [st],p,04/24/2024,,"$1,001 - $15,000",,st,hsy
+374,20024924,,,tractor supply company - common stock (tsco) [st] f_____ s_____: new,p,04/24/2024,,"$1,001 - $15,000",,st,tsco
+375,20025108,,,"advanced micro devices, inc. (amd) [st] f_____ s_____: new",p,05/21/2024,,"$1,001 - $15,000",,st,amd
+376,20025108,,,apple inc. - common stock (aapl) [st],p,05/21/2024,,"$1,001 - $15,000",,st,aapl
+377,20025108,,,"caterpillar, inc. common stock (cat) [st] f_____ s_____: new",p,05/21/2024,,"$1,001 - $15,000",,st,cat
+378,20025108,,,charles schwab corporation (schw) [st],p,05/21/2024,,"$1,001 - $15,000",,st,schw
+379,20025108,,,"kinder morgan, inc. common stock (kmi) [st] f_____ s_____: new",p,05/21/2024,,"$1,001 - $15,000",,st,kmi
+380,20025108,,,southern company (so) [st],p,05/21/2024,,"$1,001 - $15,000",,st,so
+381,20024481,,jt,costco wholesale corporation - common stock (cost) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investmentaccount,p,01/12/2024,,"$1,001 - $15,000",,st,cost
+382,20024481,,dc,exact sciences corporation - common stock (exas) [st],s,01/02/2024,,"$1,001 - $15,000",,st,exas
+383,20024481,,jt,inland real estate income trust [ps] f_____ s_____: new s_________ o_: hern family revocable l_______: us d__________: dividend reinvestmenttrust > brokerage investmentaccount,p,01/05/2024,,"$1,001 - $15,000",,ps,
+384,20024481,,jt,jp morgan chase & co. common stock (jpm) [st],p,01/31/2024,,"$1,001 - $15,000",,st,jpm
+385,20024481,,dc,vuzix corporation (vuzi) [st] f_____ s_____: new s_________ o_: kaden everett hern tru d__________: sell to closest,s,01/02/2024,,"$1,001 - $15,000",,st,vuzi
+386,20025040,,jt,inland real estate income trust [ps] f_____ s_____: new s_________ o_: hern family revocable l_______: us d__________: dividend reinvestmenttrust > brokerage investment account,p,04/08/2024,,"$1,001 - $15,000",,ps,
+387,20025040,,jt,jp morgan chase & co. common stock (jpm) [st],p,04/30/2024,,"$1,001 - $15,000",,st,jpm
+388,20025040,,jt,toronto dominion bank ser e note 04/27/2029 [cs] f_____ s_____: new s_________ o_: hern family foundatio d__________: buy openn,p,04/24/2024,,"$250,001 - $500,000",,,
+389,20024669,,jt,accenture plc class a ordinary shares (acn) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,02/20/2024,,"$1,001 - $15,000",,st,acn
+390,20024669,,jt,"marsh & mclennan companies, inc. common stock (mmc) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account",p,02/15/2024,,"$1,001 - $15,000",,st,mmc
+391,20024669,,jt,"oneok, inc. common stock (oke) [st]",p,02/14/2024,,"$1,001 - $15,000",,st,oke
+392,20024669,,jt,texas instruments incorporated - common stock (txn) [st],p,02/13/2024,,"$1,001 - $15,000",,st,txn
+393,20024669,,jt,texas instruments incorporated - common stock (txn) [st] f_____ s_____: new s_________ o_: hern family foundatio d__________: dividend reinvestmentn,p,02/13/2024,,"$1,001 - $15,000",,st,txn
+394,20024305,,dc,"carecloud, inc. (ccld) [st] f_____ s_____: new s_________ o_: kaden everett hern tru d__________: sell to closest",s,12/08/2023,,"$1,001 - $15,000",,st,ccld
+395,20024305,,jt,devon energy corporation (dvn) [st],p,12/29/2023,,"$15,001 - $50,000",,st,dvn
+396,20024305,,jt,devon energy corporation (dvn) [st] f_____ s_____: new s_________ o_: hern family foundatio d__________: dividend reinvestmentn,p,12/29/2023,,"$1,001 - $15,000",,st,dvn
+397,20024305,,jt,emerson electric company (emr) [st],p,12/11/2023,,"$1,001 - $15,000",,st,emr
+398,20024305,,jt,exxon mobil corporation (xom) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,12/11/2023,,"$1,001 - $15,000",,st,xom
+399,20024305,,jt,"home depot, inc. (hd) [st]",p,12/14/2023,,"$1,001 - $15,000",,st,hd
+400,20024305,,jt,"home depot, inc. (hd) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account",p,12/14/2023,,"$1,001 - $15,000",,st,hd
+401,20024305,,jt,johnson & johnson (jnj) [st],p,12/05/2023,,"$1,001 - $15,000",,st,jnj
+402,20024305,,jt,linde plc - ordinary shares (lin) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,12/18/2023,,"$1,001 - $15,000",,st,lin
+403,20024305,,jt,lockheed martin corporation (lmt) [st],p,12/29/2023,,"$1,001 - $15,000",,st,lmt
+404,20024305,,jt,"nextera energy, inc. (nee) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account",p,12/15/2023,,"$1,001 - $15,000",,st,nee
+405,20024305,,jt,pioneer natural resources company (pxd) [st],p,12/22/2023,,"$1,001 - $15,000",,st,pxd
+406,20024305,,jt,"rockwell automation, inc. (rok) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account",p,12/11/2023,,"$1,001 - $15,000",,st,rok
+407,20024305,,jt,rtx corporation (rtx) [st],p,12/14/2023,,"$1,001 - $15,000",,st,rtx
+408,20024305,,jt,unitedhealth group incorporated common stock (unh) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,12/12/2023,,"$1,001 - $15,000",,st,unh
+409,20024305,,jt,"williams companies, inc. (wmb) [st]",p,12/26/2023,,"$1,001 - $15,000",,st,wmb
+410,20024253,,jt,"albertsons companies, inc. class a (aci) [st] f_____ s_____: new s_________ o_: morgan stanley trust account",p,12/14/2023,,"$15,001 - $50,000",,st,aci
+411,20024253,,jt,heico corporation (hei) [st],s,12/20/2023,,"$15,001 - $50,000",,st,hei
+412,20024253,,jt,"palo alto networks, inc. (panw) [st] f_____ s_____: new s_________ o_: morgan stanley trust account",p,12/01/2023,,"$50,001 - $100,000",,st,panw
+413,20024253,,jt,wayfair inc. class a (w) [st],p,12/20/2023,,"$1,001 - $15,000",,st,w
+414,20024253,,jt,wayfair inc. class a (w) [st] f_____ s_____: new s_________ o_: morgan stanley trust account,p,12/15/2023,,"$15,001 - $50,000",,st,w
+415,20025232,,jt,accenture plc class a ordinary shares (acn) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investmentaccount,p,05/17/2024,,"$1,001 - $15,000",,st,acn
+416,20025232,,jt,exxon mobil corporation common stock (xom) [st],e,05/03/2024,,"$100,001 - $250,000",,st,xom
+417,20025232,,jt,"marsh & mclennan companies, inc. common stock (mmc) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investmentaccount",p,05/15/2024,,"$1,001 - $15,000",,st,mmc
+418,20025232,,jt,"oneok, inc. common stock (oke) [st]",p,05/15/2024,,"$1,001 - $15,000",,st,oke
+419,20025232,,jt,"oneok, inc. common stock (oke) [st] f_____ s_____: new s_________ o_: hern family foundatio d__________: dividend reinvestmentn",p,05/15/2024,,"$1,001 - $15,000",,st,oke
+420,20025232,,jt,pioneer natural resources company common stock (pxd) [st],e,05/03/2024,,"$100,001 - $250,000",,st,pxd
+421,20025232,,jt,texas instruments incorporated - common stock (txn) [st] f_____ s_____: new s_________ o_: hern family foundatio d__________: dividend reinvestmentn,p,05/21/2024,,"$1,001 - $15,000",,st,txn
+422,20025232,,jt,texas instruments incorporated - common stock (txn) [st],p,05/21/2024,,"$1,001 - $15,000",,st,txn
+423,20024215,,,charles schwab corporation (schw) [st] f_____ s_____: new s_________ o_: hill 2012 trust (formerly jay f hill trust),s,12/29/2023,,"$50,001 - $100,000",,st,schw
+424,20024215,,,"paypal holdings, inc. (pypl) [st]",s,12/29/2023,,"$15,001 - $50,000",,st,pypl
+425,20024606,,jt,hexcel corporation common stock (hxl) [st] f_____ s_____: new s_________ o_: morgan stanley trust account,p,02/16/2024,,"$15,001 - $50,000",,st,hxl
+426,20024450,,jt,bp p.l.c. common stock (bp) [st] f_____ s_____: new s_________ o_: morgan stanley trust account,s,01/08/2024,,"$15,001 - $50,000",,st,bp
+427,20024450,,jt,"cardinal health, inc. common stock (cah) [st]",p,01/12/2024,,"$50,001 - $100,000",,st,cah
+428,20024450,,jt,intel corporation - common stock (intc) [st] f_____ s_____: new s_________ o_: morgan stanley trust account,p,01/08/2024,,"$15,001 - $50,000",,st,intc
+429,20024450,,jt,lam research corporation - common stock (lrcx) [st],p,01/19/2024,,"$15,001 - $50,000",,st,lrcx
+430,20024450,,jt,"regeneron pharmaceuticals, inc. - common stock (regn) [st] f_____ s_____: new s_________ o_: morgan stanley trust account",p,01/17/2024,,"$1,001 - $15,000",,st,regn
+431,20024450,,jt,wayfair inc. class a common stock (w) [st],s,01/17/2024,,"$15,001 - $50,000",,st,w
+432,20024869,,jt,devon energy corporation common stock (dvn) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,03/28/2024,,"$15,001 - $50,000",,st,dvn
+433,20024869,,jt,devon energy corporation common stock (dvn) [st],p,03/28/2024,,"$1,001 - $15,000",,st,dvn
+434,20024869,,jt,emerson electric company common stock (emr) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,03/11/2024,,"$1,001 - $15,000",,st,emr
+435,20024869,,jt,exxon mobil corporation common stock (xom) [st],p,03/11/2024,,"$1,001 - $15,000",,st,xom
+436,20024869,,jt,"home depot, inc. (hd) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account",p,03/21/2024,,"$1,001 - $15,000",,st,hd
+437,20024869,,jt,"home depot, inc. (hd) [st]",p,03/21/2024,,"$1,001 - $15,000",,st,hd
+438,20024869,,jt,johnson & johnson common stock (jnj) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,03/05/2024,,"$1,001 - $15,000",,st,jnj
+439,20024869,,jt,linde plc - ordinary shares (lin) [st],p,03/28/2024,,"$1,001 - $15,000",,st,lin
+440,20024869,,jt,lockheed martin corporation common stock (lmt) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account,p,03/29/2024,,"$1,001 - $15,000",,st,lmt
+441,20024869,,jt,"nextera energy, inc. common stock (nee) [st]",p,03/15/2024,,"$1,001 - $15,000",,st,nee
+442,20024869,,jt,pioneer natural resources company common stock (pxd) [st] f_____ s_____: new s_________ o_: hern family foundatio d__________: dividend reinvestmentn,p,03/22/2024,,"$1,001 - $15,000",,st,pxd
+443,20024869,,jt,"rockwell automation, inc. common stock (rok) [st]",p,03/11/2024,,"$1,001 - $15,000",,st,rok
+444,20024869,,jt,unitedhealth group incorporated common stock (unh) [st],p,03/19/2024,,"$1,001 - $15,000",,st,unh
+445,20024869,,jt,"williams companies, inc. (wmb) [st] f_____ s_____: new s_________ o_: hern family revocable d__________: dividend reinvestmenttrust > brokerage investment account",p,03/25/2024,,"$1,001 - $15,000",,st,wmb
+446,20024811,,jt,"analog devices, inc. - common stock (adi) [st] f_____ s_____: new s_________ o_: morgan stanley trust account",s,03/13/2024,,"$15,001 - $50,000",,st,adi
+447,20024811,,jt,apple inc. - common stock (aapl) [st],s,03/13/2024,,"$15,001 - $50,000",,st,aapl
+448,20024811,,jt,"applied materials, inc. - common stock (amat) [st] f_____ s_____: new s_________ o_: morgan stanley trust account",p,03/13/2024,,"$50,001 - $100,000",,st,amat
+449,20024811,,jt,asml holding n.v. - new york registry shares (asml) [st],p,03/13/2024,,"$15,001 - $50,000",,st,asml
+450,20024811,,jt,intel corporation - common stock (intc) [st] f_____ s_____: new s_________ o_: morgan stanley trust account,s,03/13/2024,,"$15,001 - $50,000",,st,intc
+451,20024509,,,"becton, dickinson and company common stock (bdx) [st] f_____ s_____: new s_________ o_: kean family partnership",p,01/11/2024,,"$1,001 - $15,000",,st,bdx
+452,20024509,,,pernod ricard s a sp/adr (prndy) [st],p,01/30/2024,,"$1,001 - $15,000",,st,prndy
+453,20025000,,jt,conocophillips common stock (cop) [st] f_____ s_____: new s_________ o_: morgan stanley trust account,p,04/02/2024,,"$15,001 - $50,000",,st,cop
+454,20025000,,jt,hexcel corporation common stock (hxl) [st],s,04/24/2024,,"$15,001 - $50,000",,st,hxl
+455,20025000,,jt,jp morgan chase & co. common stock (jpm) [st] f_____ s_____: new s_________ o_: morgan stanley trust account,p,04/24/2024,,"$15,001 - $50,000",,st,jpm
+456,20025000,,jt,lululemon athletica inc. - common stock (lulu) [st],s,04/02/2024,,"$15,001 - $50,000",,st,lulu
+457,20024309,,,oracle corporation (orcl) [st] f_____ s_____: new s_________ o_: kean family partnership,p,12/14/2023,,"$1,001 - $15,000",,st,orcl
+458,20024445,,,"palo alto networks, inc. (panw) [st]",p,01/24/2024,,"$1,001 - $15,000",,st,panw
+459,20024685,,,"berry global group, inc. common stock (bery) [st] f_____ s_____: new s_________ o_: kean family partnership",p,02/12/2024,,"$1,001 - $15,000",,st,bery
+460,20024685,,,"nike, inc. common stock (nke) [st]",p,02/22/2024,,"$1,001 - $15,000",,st,nke
+461,20025059,,,"illumina, inc. - common stock (ilmn) [st] f_____ s_____: new s_________ o_: kean family partnership",p,04/19/2024,,"$1,001 - $15,000",,st,ilmn
+462,20025059,,,"nike, inc. common stock (nke) [st]",s,04/19/2024,,"$1,001 - $15,000",,st,nke
+463,20024668,,,boeing company (ba) [st],s,02/28/2024,,"$1,001 - $15,000",,st,ba
+464,20024668,,,transdigm group incorporated common stock (tdg) [st],p,02/28/2024,,"$1,001 - $15,000",,st,tdg
+465,20024668,,,"united rentals, inc. common stock (uri) [st] f_____ s_____: new s_________ o_: bill's ira",s,02/28/2024,,"$1,001 - $15,000",,st,uri
+466,20024654,,sp,new jersey st 19 go emer go 5% due 6/1/2028 [gs] f_____ s_____: new,p,02/21/2024,,"$50,001 - $100,000",,,
+467,20025119,,,accenture plc class a ordinary shares (acn) [st] f_____ s_____: new s_________ o_: bill's ira,s,05/17/2024,,"$1,001 - $15,000",,st,acn
+468,20025119,,,"airbnb, inc. - class a common stock (abnb) [st]",s,05/17/2024,,"$1,001 - $15,000",,st,abnb
+469,20025119,,,alphabet inc. - class a common stock (googl) [st] f_____ s_____: new s_________ o_: bill's ira,s,05/17/2024,,"$1,001 - $15,000",,st,googl
+470,20025119,,,"amazon.com, inc. - common stock (amzn) [st]",p,05/17/2024,,"$15,001 - $50,000",,st,amzn
+471,20025119,,,"autozone, inc. common stock (azo) [st] f_____ s_____: new s_________ o_: bill's ira",s,05/17/2024,,"$1,001 - $15,000",,st,azo
+472,20025119,,,cvs health corporation common stock (cvs) [st],s,05/17/2024,,"$1,001 - $15,000",,st,cvs
+473,20025119,,,jacobs solutions inc. common stock (j) [st] f_____ s_____: new s_________ o_: bill's ira,s,05/17/2024,,"$1,001 - $15,000",,st,j
+474,20025119,,,"lowe's companies, inc. common stock (low) [st]",s,05/17/2024,,"$1,001 - $15,000",,st,low
+475,20025119,,,microsoft corporation - common stock (msft) [st],s,05/17/2024,,"$1,001 - $15,000",,st,msft
+476,20024505,,sp,"farmers & merchants bancorp, inc. (fmao) [st] f_____ s_____: new d__________: dividend reinvestment",p,01/22/2024,,"$1,001 - $15,000",,st,fmao
+477,20024901,,sp,"farmers & merchants bancorp, inc. (fmao) [st] f_____ s_____: new d__________: dividend reinvestment c_______: dividend reinvestment",p,04/20/2024,,"$1,001 - $15,000",,st,fmao
+478,20025238,,sp,"farmers & merchants bancorp, inc. (fmao) [st] f_____ s_____: new d__________: compensation",p,06/06/2024,,"$15,001 - $50,000",,st,fmao
+479,20024339,,,bristol-myers squibb company (bmy) [st] f_____ s_____: new s_________ o_: richard r larsen ira >rick larsen iraameriprise sps managed acco d__________: sale of asset as part of quarterly portfolio rebalancing. asset manager-initiat,s,01/09/2024,,"$1,001 - $15,000 unt ed sale",,st,bmy
+480,20024339,,,colgate-palmolive company (cl) [st],p,01/09/2024,,"$1,001 - $15,000",,st,cl
+481,20024339,,,f_____ s_____: new s_________ o_: richard r larsen ira > d__________: sale as part of quarterly portfolio rebalancing; asset manager-initiated trans,rick,ameriprise sp,,unt action,,,
+482,20024339,,,the hershey company (hsy) [st] f_____ s_____: new s_________ o_: richard r larsen ira >rick larsen iraameriprise sps managed acco d__________: sale as part of quarterly portfolio rebalancing; asset manager-initiated trans,s,01/09/2024,,"$1,001 - $15,000 unt action",,st,hsy
+483,20024339,,,zoetis inc. class a (zts) [st],p,01/09/2024,,"$1,001 - $15,000",,st,zts
+484,20024339,,,f_____ s_____: new s_________ o_: richard r larsen ira > d__________: sale as part of quarterly portfolio rebalancing; asset manager-initiated trans,rick,ameriprise sp,,unt action,,,
+485,20024249,,sp,alibaba group holding limited american depositary shares each representing eight ordinary share (baba) [st] f_____ s_____: new,s,12/29/2023,,"$100,001 - $250,000",,st,baba
+486,20024842,,,fedex corporation common stock (fdx) [st] f_____ s_____: new s_________ o_: richard r larsen ira >rick larsen iraameriprise sps managed acco d__________: part of quarterly portfolio rebalancing conducted by assetmanager and whic,p,04/04/2024,,"$1,001 - $15,000 unt h i do not control pe",,st,fdx
+487,20024842,,,"united parcel service, inc. common stock (ups) [st]",s,04/04/2024,,"$1,001 - $15,000",,st,ups
+488,20024842,,,f_____ s_____: new s_________ o_: richard r larsen ira > d__________: part of a quarterly rebalancing of portfolio and conducted by asset manager,rick,ameriprise sp,,unt without my control p,,,
+489,20025025,,,"vmware, inc. common stock, class a (vmw) [st] f_____ s_____: new s_________ o_: ira d__________: on november 27 2023 broadcom inc. (nasdaq: avgo),a global technolo and supplies semiconductor and infrastructure software solutions, acquired vmware, inc. vmware class a stock holdings from portfolios that had less than a 100 shares. the total p purchase were deposited in the ira morgan stanley money market fundas reported on s",s,11/27/2023,,"$1,001 - $15,000 gy leader that design broadcom inc. re-pu roceeds for the vmw chedule a",,st,vmw
+490,20025096,,dc,rheinmetall ag unsp/adr (rnmby) [st] f_____ s_____: new s_________ o_: arw subtrust > fidelityinvestments arw subtrust brokerage account,p,05/10/2024,,"$1,001 - $15,000",,st,rnmby
+491,20025123,,,nvidia corporation - common stock (nvda) [st] f_____ s_____: new s_________ o_: ira,p,05/22/2024,,"$1,001 - $15,000",,st,nvda
+492,20024810,,,"tripleblind [ps] f_____ s_____: new s_________ o_: groundtruth stu l_______: usdio ii, llc d__________: tripleblind is a privately held software company.",p,04/04/2024,,"$15,001 - $50,000",,ps,
+493,20024743,,dc,"amazon.com, inc. - common stock (amzn) [st] f_____ s_____: new s_________ o_: maverick mast charlesschwab brokerage account",p,03/04/2024,,$350.78,,st,amzn
+494,20024743,,dc,at&t inc. (t) [st],p,03/04/2024,,$172.00,,st,t
+495,20024743,,dc,at&t inc. (t) [st] f_____ s_____: new s_________ o_: maverick mast charlesschwab brokerage account,p,03/04/2024,,$223.60,,st,t
+496,20024231,,sp,"citizens financial group, inc. (cfg) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2",s,12/12/2023,,"$1,001 - $15,000",,st,cfg
+497,20024231,,sp,"citizens financial group, inc. (cfg) [st]",s,12/12/2023,,"$15,001 - $50,000",,st,cfg
+498,20024231,,sp,"citizens financial group, inc. (cfg) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2",s,12/12/2023,,"$1,001 - $15,000",,st,cfg
+499,20024231,,sp,"estee lauder companies, inc. (el) [st]",s,12/12/2023,,"$1,001 - $15,000",,st,el
+500,20024231,,sp,"estee lauder companies, inc. (el) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c",s,12/12/2023,,"$15,001 - $50,000 apital - brokerage #",,st,el
+501,20024231,,sp,"estee lauder companies, inc. (el) [st]",s,12/12/2023,,"$1,001 - $15,000",,st,el
+502,20024231,,sp,medtronic plc. ordinary shares (mdt) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,s,12/12/2023,,"$1,001 - $15,000",,st,mdt
+503,20024231,,sp,medtronic plc. ordinary shares (mdt) [st],s,12/12/2023,,"$15,001 - $50,000",,st,mdt
+504,20024231,,sp,medtronic plc. ordinary shares (mdt) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,s,12/12/2023,,"$1,001 - $15,000",,st,mdt
+505,20024231,,sp,"paypal holdings, inc. (pypl) [st]",s,12/12/2023,,"$1,001 - $15,000",,st,pypl
+506,20024231,,sp,"paypal holdings, inc. (pypl) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c",s,12/12/2023,,"$15,001 - $50,000 apital - brokerage #",,st,pypl
+507,20024231,,sp,"paypal holdings, inc. (pypl) [st]",s,12/12/2023,,"$1,001 - $15,000",,st,pypl
+508,20024231,,sp,"pfizer, inc. (pfe) [st]",s,12/12/2023,,"$15,001 - $50,000",,st,pfe
+509,20024231,,sp,"pfizer, inc. (pfe) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2",s,12/12/2023,,"$1,001 - $15,000",,st,pfe
+510,20024231,,sp,walt disney company (dis) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,s,12/12/2023,,"$15,001 - $50,000 apital - brokerage #",,st,dis
+511,20024231,,sp,walt disney company (dis) [st],s,12/12/2023,,"$1,001 - $15,000",,st,dis
+512,20024231,,sp,walt disney company (dis) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,s,12/12/2023,,"$1,001 - $15,000",,st,dis
+513,20024380,,,"mercato partners travers iv qp, lp (glas funds, lp) [hn] f_____ s_____: new s_________ o_: 2012 trust d__________: capital call for mercato partners traverse ivqp, lp through glas lp",p,01/25/2024,,$468.43,,,"glas funds, lp"
+514,20025203,,,at&t inc. (t) [st] f_____ s_____: new,s,05/08/2024,,"$1,001 - $15,000",,st,t
+515,20025203,,,at&t inc. (t) [st],s,05/08/2024,,"$1,001 - $15,000",,st,t
+516,20025203,,,"coca-cola consolidated, inc. - common stock (coke) [st] f_____ s_____: new",s,05/08/2024,,"$1,001 - $15,000",,st,coke
+517,20025203,,,"coca-cola consolidated, inc. - common stock (coke) [st]",s,05/08/2024,,"$1,001 - $15,000",,st,coke
+518,20025203,,,comcast corporation - class a common stock (cmcsa) [st] f_____ s_____: new,s,05/08/2024,,"$1,001 - $15,000",,st,cmcsa
+519,20025203,,,comcast corporation - class a common stock (cmcsa) [st],s,05/08/2024,,"$15,001 - $50,000",,st,cmcsa
+520,20025203,,,mckesson corporation common stock (mck) [st] f_____ s_____: new,s,05/08/2024,,"$15,001 - $50,000",,st,mck
+521,20025203,,,mckesson corporation common stock (mck) [st],s,05/08/2024,,"$15,001 - $50,000",,st,mck
+522,20025203,,,"yum! brands, inc. (yum) [st] f_____ s_____: new",s,05/08/2024,,"$15,001 - $50,000",,st,yum
+523,20025203,,,"yum! brands, inc. (yum) [st]",s,05/08/2024,,"$1,001 - $15,000",,st,yum
+524,20024710,,sp,nvidia corporation - common stock (nvda) [st] f_____ s_____: new s_________ o_: schwab brokerage account,s,02/20/2024,,"$250,001 - $500,000",,st,nvda
+525,20024710,,dc,nvidia corporation - common stock (nvda) [st],s,02/20/2024,,"$15,001 - $50,000",,st,nvda
+526,20024710,,dc,nvidia corporation - common stock (nvda) [st] f_____ s_____: new s_________ o_: schwab dm brokerageaccount,s,02/20/2024,,"$15,001 - $50,000",,st,nvda
+527,20024472,,,"new water capital partners ii, lp (glas funds, lp) [hn] f_____ s_____: new s_________ o_: 2012 trust d__________: capital call for new watercapital partners,ii lp",p,02/07/2024,,$833.71,,,"glas funds, lp"
+528,20024772,,,"alpine investors ix, lp [hn] f_____ s_____: new s_________ o_: 2012 trust d__________: glas - alpine investors ix, lp capital call",p,04/01/2024,,"$1,001 - $15,000",,,
+529,20024519,,,"rac opportunity fund ii, lp (glas funds, lp) [hn] f_____ s_____: new s_________ o_: 2012 trust d__________: capital call for rac opportunity fund ii lp",p,02/16/2024,,"$1,001 - $15,000",,,"glas funds, lp"
+530,20024876,,,berkshire hathaway inc. new common stock (brk.b) [st] f_____ s_____: new s_________ o_: merrill lynch #806,s,04/04/2024,,"$1,001 - $15,000",,st,brk.b
+531,20025052,,,berkshire hathaway inc. new common stock (brk.b) [st] f_____ s_____: new s_________ o_: merrill lynch #806,s,04/08/2024,,"$1,001 - $15,000",,st,brk.b
+532,20025053,,,berkshire hathaway inc. new common stock (brk.b) [st] f_____ s_____: deleted s_________ o_: merrill lynch #806,s,04/08/2024,,"$1,001 - $15,000",,st,brk.b
+533,20024542,,sp,"palo alto networks, inc. (panw) [op] f_____ s_____: new d__________: purchased 50 call optionswith a strike priceof $200 and an expiration date",p,02/12/2024,,"$500,001 - $1,000,000 of 1/17/25.",,op,panw
+534,20024542,,sp,"palo alto networks, inc. (panw) [op]",p,02/21/2024,,"$100,001 - $250,000",,op,panw
+535,20024542,,,f_____ s_____: new d__________: purchased 20 call options,with,of $200 and a,,of 1/17/25.,,,
+536,20024286,,dc,alphabet inc. - class c capital stock (goog) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6),p,12/28/2023,,"$1,001 - $15,000",,st,goog
+537,20024286,,dc,alphabet inc. - class c capital stock (goog) [st],p,12/28/2023,,"$1,001 - $15,000",,st,goog
+538,20024286,,dc,"analog devices, inc. (adi) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (5)",p,12/28/2023,,"$1,001 - $15,000",,st,adi
+539,20024286,,dc,"best buy co., inc. (bby) [st]",s,12/28/2023,,"$1,001 - $15,000",,st,bby
+540,20024286,,dc,dollar general corporation (dg) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6),s,12/28/2023,,"$1,001 - $15,000",,st,dg
+541,20024286,,dc,dollar general corporation (dg) [st],s,12/28/2023,,"$1,001 - $15,000",,st,dg
+542,20024286,,dc,eli lilly and company (lly) [st],p,12/28/2023,,"$1,001 - $15,000",,st,lly
+543,20024286,,dc,hormel foods corporation (hrl) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6),s,12/28/2023,,"$1,001 - $15,000",,st,hrl
+544,20024286,,dc,hormel foods corporation (hrl) [st],s,12/28/2023,,"$1,001 - $15,000",,st,hrl
+545,20024286,,dc,"jack henry & associates, inc. (jkhy) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6)",s,12/28/2023,,"$1,001 - $15,000",,st,jkhy
+546,20024286,,dc,"jack henry & associates, inc. (jkhy) [st]",s,12/28/2023,,"$1,001 - $15,000",,st,jkhy
+547,20024286,,dc,medtronic plc. ordinary shares (mdt) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6),s,12/28/2023,,"$1,001 - $15,000",,st,mdt
+548,20024286,,dc,medtronic plc. ordinary shares (mdt) [st],s,12/28/2023,,"$1,001 - $15,000",,st,mdt
+549,20024286,,dc,"merck & company, inc. common stock (mrk) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6)",p,12/28/2023,,"$1,001 - $15,000",,st,mrk
+550,20024286,,dc,"merck & company, inc. common stock (mrk) [st]",p,12/28/2023,,"$1,001 - $15,000",,st,mrk
+551,20024286,,dc,"meta platforms, inc. - class a (meta) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6)",p,12/28/2023,,"$1,001 - $15,000",,st,meta
+552,20024286,,dc,"meta platforms, inc. - class a (meta) [st]",p,12/28/2023,,"$1,001 - $15,000",,st,meta
+553,20024286,,dc,"pfizer, inc. (pfe) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6)",s,12/28/2023,,"$1,001 - $15,000",,st,pfe
+554,20024286,,dc,"pfizer, inc. (pfe) [st]",s,12/28/2023,,"$1,001 - $15,000",,st,pfe
+555,20024286,,dc,"roper technologies, inc. (rop) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6)",p,12/28/2023,,"$1,001 - $15,000",,st,rop
+556,20024286,,dc,"roper technologies, inc. (rop) [st]",p,12/28/2023,,"$1,001 - $15,000",,st,rop
+557,20024286,,dc,seacoast banking corporation of florida (sbcf) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (3),s,12/14/2023,,"$15,001 - $50,000",,st,sbcf
+558,20024286,,dc,seacoast banking corporation of florida (sbcf) [st],s,12/14/2023,,"$15,001 - $50,000",,st,sbcf
+559,20024286,,dc,sherwin-williams company (shw) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6),s,12/28/2023,,"$1,001 - $15,000",,st,shw
+560,20024286,,dc,sherwin-williams company (shw) [st],s,12/28/2023,,"$1,001 - $15,000",,st,shw
+561,20024286,,dc,sysco corporation (syy) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6),s,12/28/2023,,"$1,001 - $15,000",,st,syy
+562,20024286,,dc,sysco corporation (syy) [st],s,12/28/2023,,"$1,001 - $15,000",,st,syy
+563,20024286,,dc,"t-mobile us, inc. (tmus) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (6)",p,12/28/2023,,"$1,001 - $15,000",,st,tmus
+564,20024286,,dc,"t-mobile us, inc. (tmus) [st]",p,12/28/2023,,"$1,001 - $15,000",,st,tmus
+565,20024286,,dc,tractor supply company (tsco) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (5),p,12/28/2023,,"$1,001 - $15,000",,st,tsco
+566,20024286,,dc,walt disney company (dis) [st],s,12/28/2023,,"$1,001 - $15,000",,st,dis
+567,20024286,,dc,walt disney company (dis) [st] f_____ s_____: new s_________ o_: morgan stanley active assets (5),s,12/28/2023,,"$1,001 - $15,000",,st,dis
+568,20024286,,dc,"west pharmaceutical services, inc. (wst) [st]",p,12/28/2023,,"$1,001 - $15,000",,st,wst
+569,20025103,,,"america first natural resources llc [ol] f_____ s_____: new l_______: san antonio, tx, us d__________: america first natural resources llc is engaged in energyproduction.",p,04/23/2024,,"$50,001 - $100,000",,,
+570,20025103,,,america first natural resources llc [ol],p,05/20/2024,,"$100,001 - $250,000",,,
+571,20025103,,,"america first natural resources llc [ol] f_____ s_____: new l_______: san antonio, tx, us d__________: america first natural resources llc is engaged in energyproduction.",p,05/20/2024,,"$50,001 - $100,000",,,
+572,20024917,,sp,accenture plc class a ordinary shares (acn) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,acn
+573,20024917,,sp,"analog devices, inc. - common stock (adi) [st]",p,04/10/2024,,"$1,001 - $15,000",,st,adi
+574,20024917,,sp,bank amer corp dep sh repstg 1/1000th pfd ser i (bac$i) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,bac$i
+575,20024917,,sp,booking holdings inc. - common stock (bkng) [st],s,04/10/2024,,"$1,001 - $15,000",,st,bkng
+576,20024917,,sp,broadcom inc. - common stock (avgo) [st] f_____ s_____: new s_________ o_: edward jones ira,s,04/10/2024,,"$1,001 - $15,000",,st,avgo
+577,20024917,,sp,csx corporation - common stock (csx) [st],p,04/10/2024,,"$1,001 - $15,000",,st,csx
+578,20024917,,sp,danaher corporation common stock (dhr) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,dhr
+579,20024917,,sp,deere & company common stock (de) [st],p,04/10/2024,,"$1,001 - $15,000",,st,de
+580,20024917,,sp,dollar general corporation common stock (dg) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,dg
+581,20024917,,sp,"elevance health, inc. common stock (elv) [st]",p,04/10/2024,,"$1,001 - $15,000",,st,elv
+582,20024917,,sp,eli lilly and company common stock (lly) [st] f_____ s_____: new s_________ o_: edward jones ira,s,04/10/2024,,"$1,001 - $15,000",,st,lly
+583,20024917,,sp,"estee lauder companies, inc. (el) [st]",p,04/10/2024,,"$1,001 - $15,000",,st,el
+584,20024917,,sp,fmc corporation common stock (fmc) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,fmc
+585,20024917,,sp,"fortinet, inc. - common stock (ftnt) [st]",p,04/10/2024,,"$1,001 - $15,000",,st,ftnt
+586,20024917,,sp,honeywell international inc. (hon) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,hon
+587,20024917,,sp,intuit inc. - common stock (intu) [st],s,04/10/2024,,"$1,001 - $15,000",,st,intu
+588,20024917,,sp,marathon petroleum corporation common stock (mpc) [st] f_____ s_____: new s_________ o_: edward jones ira,s,04/10/2024,,"$1,001 - $15,000",,st,mpc
+589,20024917,,sp,microsoft corporation - common stock (msft) [st],s,04/10/2024,,"$1,001 - $15,000",,st,msft
+590,20024917,,sp,"netflix, inc. - common stock (nflx) [st] f_____ s_____: new s_________ o_: edward jones ira",s,04/10/2024,,"$1,001 - $15,000",,st,nflx
+591,20024917,,sp,"nike, inc. common stock (nke) [st]",p,04/10/2024,,"$1,001 - $15,000",,st,nke
+592,20024917,,sp,nisource inc common stock (ni) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,ni
+593,20024917,,sp,nvidia corporation - common stock (nvda) [st],s,04/10/2024,,"$1,001 - $15,000",,st,nvda
+594,20024917,,sp,"pepsico, inc. - common stock (pep) [st] f_____ s_____: new s_________ o_: edward jones ira",p,04/10/2024,,"$1,001 - $15,000",,st,pep
+595,20024917,,sp,procter & gamble company (pg) [st] f_____ s_____: new s_________ o_: edward jones ira,s,04/10/2024,,"$1,001 - $15,000",,st,pg
+596,20024917,,sp,rtx corporation common stock (rtx) [st],p,04/10/2024,,"$1,001 - $15,000",,st,rtx
+597,20024917,,sp,"salesforce, inc. common stock (crm) [st] f_____ s_____: new s_________ o_: edward jones ira",s,04/10/2024,,"$1,001 - $15,000",,st,crm
+598,20024917,,sp,"servicenow, inc. common stock (now) [st]",s,04/10/2024,,"$1,001 - $15,000",,st,now
+599,20024917,,sp,the hershey company common stock (hsy) [st] f_____ s_____: new s_________ o_: edward jones ira,p,04/10/2024,,"$1,001 - $15,000",,st,hsy
+600,20024917,,sp,v.f. corporation common stock (vfc) [st],p,04/10/2024,,"$1,001 - $15,000",,st,vfc
+601,20024354,,,alibaba group holding limited american depositary shares each representing eight ordinary share (baba) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaira (bm),s,01/19/2024,,"$1,001 - $15,000",,st,baba
+602,20024354,,,alphabet inc. - class c capital stock (goog) [st],s,01/19/2024,,"$1,001 - $15,000",,st,goog
+603,20024354,,,alphabet inc. - class c capital stock (goog) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaira (bm),s,01/19/2024,,"$15,001 - $50,000",,st,goog
+604,20024354,,,"amazon.com, inc. (amzn) [st]",s,01/19/2024,,"$15,001 - $50,000",,st,amzn
+605,20024354,,,"amazon.com, inc. (amzn) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (jm)",s,01/19/2024,,"$1,001 - $15,000",,st,amzn
+606,20024354,,,"amazon.com, inc. (amzn) [st]",s,01/19/2024,,"$1,001 - $15,000",,st,amzn
+607,20024354,,,american express company (axp) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (jm),s,01/19/2024,,"$1,001 - $15,000",,st,axp
+608,20024354,,,american express company (axp) [st],s,01/19/2024,,"$1,001 - $15,000",,st,axp
+609,20024354,,,american express company (axp) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaira (bm),s,01/19/2024,,"$15,001 - $50,000",,st,axp
+610,20024354,,,apple inc. (aapl) [st],s,01/19/2024,,"$15,001 - $50,000",,st,aapl
+611,20024354,,,apple inc. (aapl) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (bm),s,01/19/2024,,"$1,001 - $15,000",,st,aapl
+612,20024354,,,apple inc. (aapl) [st],s,01/19/2024,,"$1,001 - $15,000",,st,aapl
+613,20024354,,,apple inc. (aapl) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (jm),p,12/22/2023,,"$1,001 - $15,000",,st,aapl
+614,20024354,,,bank of america corporation (bac) [st],s,01/19/2024,,"$1,001 - $15,000",,st,bac
+615,20024354,,,bank of america corporation (bac) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (jm),s,01/19/2024,,"$1,001 - $15,000",,st,bac
+616,20024354,,,berkshire hathaway inc. new (brk.b) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (jm),s,01/19/2024,,"$1,001 - $15,000",,st,brk.b
+617,20024354,,,berkshire hathaway inc. new (brk.b) [st],s,01/19/2024,,"$1,001 - $15,000",,st,brk.b
+618,20024354,,,berkshire hathaway inc. new (brk.b) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaira (bm),s,01/19/2024,,"$15,001 - $50,000",,st,brk.b
+619,20024354,,,boeing company (ba) [st],s,01/09/2024,,"$1,001 - $15,000",,st,ba
+620,20024354,,,"healthequity, inc. (hqy) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaira (bm)",s,01/19/2024,,"$1,001 - $15,000",,st,hqy
+621,20024354,,,"healthequity, inc. (hqy) [st]",s,01/19/2024,,"$1,001 - $15,000",,st,hqy
+622,20024354,,,johnson & johnson (jnj) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (bm),s,01/19/2024,,"$1,001 - $15,000",,st,jnj
+623,20024354,,,johnson & johnson (jnj) [st],s,01/19/2024,,"$1,001 - $15,000",,st,jnj
+624,20024354,,,"meta platforms, inc. - class a (meta) [st]",s,01/19/2024,,"$1,001 - $15,000",,st,meta
+625,20024354,,,"meta platforms, inc. - class a (meta) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (jm)",s,01/19/2024,,"$1,001 - $15,000",,st,meta
+626,20024354,,,microsoft corporation (msft) [st],s,01/19/2024,,"$1,001 - $15,000",,st,msft
+627,20024354,,,microsoft corporation (msft) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (bm),s,01/19/2024,,"$1,001 - $15,000",,st,msft
+628,20024354,,,microsoft corporation (msft) [st],s,01/19/2024,,"$15,001 - $50,000",,st,msft
+629,20024354,,,rtx corporation (rtx) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (bm),s,01/19/2024,,"$1,001 - $15,000",,st,rtx
+630,20024354,,,rtx corporation (rtx) [st],s,01/19/2024,,"$1,001 - $15,000",,st,rtx
+631,20024354,,,spdr s&p 500 (spy) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaira (bm),p,01/19/2024,,"$100,001 - $250,000",,st,spy
+632,20024354,,,spdr s&p 500 (spy) [st],p,01/19/2024,,"$15,001 - $50,000",,st,spy
+633,20024354,,,spdr s&p 500 (spy) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (jm),p,01/19/2024,,"$15,001 - $50,000",,st,spy
+634,20024354,,,vanguard growth etf (vug) [st],p,01/19/2024,,"$1,001 - $15,000",,st,vug
+635,20024354,,,vanguard growth etf (vug) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaroth ira (bm),p,01/19/2024,,"$1,001 - $15,000",,st,vug
+636,20024354,,,vanguard growth etf (vug) [st],p,01/19/2024,,"$100,001 - $250,000",,st,vug
+637,20024354,,,walt disney company (dis) [st] f_____ s_____: new s_________ o_: iron gate ga brokerageportfolio > iggaira (bm),s,01/19/2024,,"$1,001 - $15,000",,st,dis
+638,20024354,,,walt disney company (dis) [st],s,01/19/2024,,"$1,001 - $15,000",,st,dis
+639,20024436,,sp,abbott laboratories (abt) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,s,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,abt
+640,20024436,,sp,abbott laboratories (abt) [st],s,01/23/2024,,"$1,001 - $15,000",,st,abt
+641,20024436,,sp,abbvie inc. (abbv) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,abbv
+642,20024436,,sp,"abdiel qualified onshore partners, lp [hn]",p,02/01/2024,,"$500,001 - $1,000,000",,,
+643,20024436,,sp,accenture plc class a ordinary shares (acn) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,s,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,acn
+644,20024436,,sp,accenture plc class a ordinary shares (acn) [st],s,01/23/2024,,"$1,001 - $15,000",,st,acn
+645,20024436,,sp,accenture plc class a ordinary shares (acn) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,s,01/23/2024,,"$1,001 - $15,000",,st,acn
+646,20024436,,sp,alphabet inc. - class a (googl) [st],s,01/23/2024,,"$1,001 - $15,000",,st,googl
+647,20024436,,sp,alphabet inc. - class a (googl) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,s,01/23/2024,,"$1,001 - $15,000",,st,googl
+648,20024436,,sp,alphabet inc. - class a (googl) [st],s,01/23/2024,,"$1,001 - $15,000",,st,googl
+649,20024436,,sp,alphabet inc. - class c capital stock (goog) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,s,01/23/2024,,"$1,001 - $15,000",,st,goog
+650,20024436,,sp,alphabet inc. - class c capital stock (goog) [st],s,01/23/2024,,"$1,001 - $15,000",,st,goog
+651,20024436,,sp,amgen inc. (amgn) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,amgn
+652,20024436,,sp,aon plc class a ordinary shares (aon) [st],p,01/23/2024,,"$1,001 - $15,000",,st,aon
+653,20024436,,sp,aon plc class a ordinary shares (aon) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,p,01/23/2024,,"$1,001 - $15,000",,st,aon
+654,20024436,,sp,aon plc class a ordinary shares (aon) [st],p,01/23/2024,,"$1,001 - $15,000",,st,aon
+655,20024436,,sp,apple inc. (aapl) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,s,01/23/2024,,"$1,001 - $15,000",,st,aapl
+656,20024436,,sp,apple inc. (aapl) [st],s,01/23/2024,,"$1,001 - $15,000",,st,aapl
+657,20024436,,sp,apple inc. (aapl) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,s,01/23/2024,,"$15,001 - $50,000 apital - brokerage #",,st,aapl
+658,20024436,,sp,"caterpillar, inc. (cat) [st]",s,01/23/2024,,"$1,001 - $15,000",,st,cat
+659,20024436,,sp,"caterpillar, inc. (cat) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2",s,01/23/2024,,"$1,001 - $15,000",,st,cat
+660,20024436,,sp,"caterpillar, inc. (cat) [st]",s,01/23/2024,,"$1,001 - $15,000",,st,cat
+661,20024436,,sp,chubb limited (cb) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,cb
+662,20024436,,sp,"citizens financial group, inc. (cfg) [st]",p,01/23/2024,,"$15,001 - $50,000",,st,cfg
+663,20024436,,sp,"citizens financial group, inc. (cfg) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2",p,01/23/2024,,"$1,001 - $15,000",,st,cfg
+664,20024436,,sp,cme group inc. - class a (cme) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,cme
+665,20024436,,sp,costco wholesale corporation (cost) [st],p,01/23/2024,,"$15,001 - $50,000",,st,cost
+666,20024436,,sp,costco wholesale corporation (cost) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,p,01/23/2024,,"$1,001 - $15,000",,st,cost
+667,20024436,,sp,costco wholesale corporation (cost) [st],p,01/23/2024,,"$1,001 - $15,000",,st,cost
+668,20024436,,sp,"general mills, inc. (gis) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2",s,01/23/2024,,"$1,001 - $15,000",,st,gis
+669,20024436,,sp,"general mills, inc. (gis) [st]",s,01/23/2024,,"$1,001 - $15,000",,st,gis
+670,20024436,,sp,intuit inc. (intu) [st],s,01/23/2024,,"$15,001 - $50,000",,st,intu
+671,20024436,,sp,intuit inc. (intu) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,s,01/23/2024,,"$1,001 - $15,000",,st,intu
+672,20024436,,sp,intuit inc. (intu) [st],s,01/23/2024,,"$1,001 - $15,000",,st,intu
+673,20024436,,sp,johnson & johnson (jnj) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,jnj
+674,20024436,,sp,jp morgan chase & co. (jpm) [st],s,01/23/2024,,"$1,001 - $15,000",,st,jpm
+675,20024436,,sp,jp morgan chase & co. (jpm) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,s,01/23/2024,,"$1,001 - $15,000",,st,jpm
+676,20024436,,sp,lam research corporation (lrcx) [st],s,01/23/2024,,"$1,001 - $15,000",,st,lrcx
+677,20024436,,sp,lam research corporation (lrcx) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,s,01/23/2024,,"$15,001 - $50,000 apital - brokerage #",,st,lrcx
+678,20024436,,sp,lam research corporation (lrcx) [st],s,01/23/2024,,"$1,001 - $15,000",,st,lrcx
+679,20024436,,sp,lockheed martin corporation (lmt) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,lmt
+680,20024436,,sp,lockheed martin corporation (lmt) [st],p,01/23/2024,,"$1,001 - $15,000",,st,lmt
+681,20024436,,sp,mastercard incorporated (ma) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,p,01/23/2024,,"$1,001 - $15,000",,st,ma
+682,20024436,,sp,mastercard incorporated (ma) [st],p,01/23/2024,,"$15,001 - $50,000",,st,ma
+683,20024436,,sp,mastercard incorporated (ma) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,p,01/23/2024,,"$1,001 - $15,000",,st,ma
+684,20024436,,sp,medtronic plc. ordinary shares (mdt) [st],p,01/23/2024,,"$1,001 - $15,000",,st,mdt
+685,20024436,,sp,medtronic plc. ordinary shares (mdt) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$15,001 - $50,000 apital - brokerage #",,st,mdt
+686,20024436,,sp,medtronic plc. ordinary shares (mdt) [st],p,01/23/2024,,"$1,001 - $15,000",,st,mdt
+687,20024436,,sp,"merck & company, inc. common stock (mrk) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2",p,01/23/2024,,"$1,001 - $15,000",,st,mrk
+688,20024436,,sp,"merck & company, inc. common stock (mrk) [st]",p,01/23/2024,,"$15,001 - $50,000",,st,mrk
+689,20024436,,sp,"merck & company, inc. common stock (mrk) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2",p,01/23/2024,,"$1,001 - $15,000",,st,mrk
+690,20024436,,sp,"micron technology, inc. (mu) [st]",s,01/23/2024,,"$1,001 - $15,000",,st,mu
+691,20024436,,sp,"micron technology, inc. (mu) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c",s,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,mu
+692,20024436,,sp,"micron technology, inc. (mu) [st]",s,01/23/2024,,"$1,001 - $15,000",,st,mu
+693,20024436,,sp,microsoft corporation (msft) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,p,01/23/2024,,"$1,001 - $15,000",,st,msft
+694,20024436,,sp,microsoft corporation (msft) [st],p,01/23/2024,,"$1,001 - $15,000",,st,msft
+695,20024436,,sp,microsoft corporation (msft) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,p,01/23/2024,,"$1,001 - $15,000",,st,msft
+696,20024436,,sp,msci inc. (msci) [st],p,01/23/2024,,"$1,001 - $15,000",,st,msci
+697,20024436,,sp,msci inc. (msci) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$15,001 - $50,000 apital - brokerage #",,st,msci
+698,20024436,,sp,msci inc. (msci) [st],p,01/23/2024,,"$1,001 - $15,000",,st,msci
+699,20024436,,sp,"nike, inc. (nke) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2",p,01/23/2024,,"$1,001 - $15,000",,st,nke
+700,20024436,,sp,"nike, inc. (nke) [st]",p,01/23/2024,,"$1,001 - $15,000",,st,nke
+701,20024436,,sp,"nike, inc. (nke) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2",p,01/23/2024,,"$1,001 - $15,000",,st,nke
+702,20024436,,sp,packaging corporation of america (pkg) [st],s,01/23/2024,,"$1,001 - $15,000",,st,pkg
+703,20024436,,sp,procter & gamble company (pg) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,pg
+704,20024436,,sp,procter & gamble company (pg) [st],p,01/23/2024,,"$1,001 - $15,000",,st,pg
+705,20024436,,sp,procter & gamble company (pg) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,p,01/23/2024,,"$1,001 - $15,000",,st,pg
+706,20024436,,sp,qualcomm incorporated (qcom) [st],s,01/23/2024,,"$1,001 - $15,000",,st,qcom
+707,20024436,,sp,"salesforce, inc. (crm) [st]",p,01/23/2024,,"$15,001 - $50,000",,st,crm
+708,20024436,,sp,"salesforce, inc. (crm) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2",p,01/23/2024,,"$1,001 - $15,000",,st,crm
+709,20024436,,sp,"salesforce, inc. (crm) [st]",p,01/23/2024,,"$1,001 - $15,000",,st,crm
+710,20024436,,sp,seven bridges energy opportunities fund iii lp [hn],p,01/08/2024,,"$15,001 - $50,000",,,
+711,20024436,,sp,seven bridges private equity opportunities fund iii lp [hn],p,01/08/2024,,"$15,001 - $50,000",,,
+712,20024436,,sp,starbucks corporation (sbux) [st] f_____ s_____: new s_________ o_: the 2011 randall r. kaplan living trust> mv capital- brokerage #2,s,01/23/2024,,"$1,001 - $15,000",,st,sbux
+713,20024436,,sp,starbucks corporation (sbux) [st],s,01/23/2024,,"$1,001 - $15,000",,st,sbux
+714,20024436,,sp,starbucks corporation (sbux) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c,s,01/23/2024,,"$15,001 - $50,000 apital - brokerage #",,st,sbux
+715,20024436,,sp,sysco corporation (syy) [st],p,01/23/2024,,"$1,001 - $15,000",,st,syy
+716,20024436,,sp,sysco corporation (syy) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,p,01/23/2024,,"$1,001 - $15,000",,st,syy
+717,20024436,,sp,"tjx companies, inc. (tjx) [st]",p,01/23/2024,,"$1,001 - $15,000",,st,tjx
+718,20024436,,sp,"tjx companies, inc. (tjx) [st] f_____ s_____: new s_________ o_: kathy manning gst fbo randall kaplan > mankap family llc > mv c",p,01/23/2024,,"$1,001 - $15,000 apital - brokerage #",,st,tjx
+719,20024436,,sp,"tjx companies, inc. (tjx) [st]",p,01/23/2024,,"$1,001 - $15,000",,st,tjx
+720,20024436,,sp,walmart inc. (wmt) [st],p,01/23/2024,,"$1,001 - $15,000",,st,wmt
+721,20024436,,sp,walmart inc. (wmt) [st] f_____ s_____: new s_________ o_: mv capital - gst exempt trust #2,p,01/23/2024,,"$1,001 - $15,000",,st,wmt
+722,20024477,,sp,"lynett capital partners iii, lp [ot] f_____ s_____: new l_______: us d__________: pooled investment fund/venture capital",p,01/17/2024,,"$100,001 - $250,000",,,
+723,20025236,,sp,"dt midstream, inc. common stock (dtm) [st] f_____ s_____: new",p,05/01/2024,,"$15,001 - $50,000",,st,dtm
+724,20025236,,sp,new fortress energy inc. - class a common stock (nfe) [st],s,05/01/2024,,"$15,001 - $50,000",,st,nfe
+725,20024986,,jt,microsoft corporation - common stock (msft) [st] f_____ s_____: new s_________ o_: fidelity brokerage account,s,04/17/2024,,"$1,001 - $15,000",,st,msft
+726,20025201,,sp,atlas energy solutions inc. common stock (aesi) [st] f_____ s_____: new,s,05/20/2024,,"$100,001 - $250,000",,st,aesi
+727,20024375,,sp,apple inc. - common stock (aapl) [st] f_____ s_____: new s_________ o_: ira one,p,02/29/2024,,$360.00,,st,aapl
+728,20024375,,sp,costco wholesale corporation (cost) [st],p,01/31/2024,,"$1,001 - $15,000",,st,cost
+729,20024375,,sp,microsoft corporation - common stock (msft) [st] f_____ s_____: new s_________ o_: trust one d__________: 10 shares,p,02/07/2024,,"$1,001 - $15,000",,st,msft
+730,20025014,,sp,"civitas resources, inc. common stock (civi) [st] f_____ s_____: new s_________ o_: neuberger",s,04/08/2024,,"$15,001 - $50,000",,st,civi
+731,20025014,,sp,"clearway energy, inc. class c common stock (cwen) [st]",p,04/26/2024,,"$15,001 - $50,000",,st,cwen
+732,20024848,,jt,at&t inc. (t) [st] f_____ s_____: new,s,04/10/2024,,"$1,001 - $15,000",,st,t
+733,20024848,,sp,atlas energy solutions inc. common stock (aesi) [st],s,03/12/2024,,"$250,001 - $500,000",,st,aesi
+734,20024848,,sp,chevron corporation common stock (cvx) [st] f_____ s_____: new d__________: sold entire holding.,s,04/10/2024,,"$15,001 - $50,000",,st,cvx
+735,20024848,,jt,energy transfer lp common units (et) [st],s,04/10/2024,,"$1,001 - $15,000",,st,et
+736,20024848,,sp,exxon mobil corporation common stock (xom) [st] f_____ s_____: new d__________: sold entire holding,s,04/10/2024,,"$15,001 - $50,000",,st,xom
+737,20024848,,,"kinder morgan, inc. common stock (kmi) [st]",s,04/10/2024,,"$1,001 - $15,000",,st,kmi
+738,20024212,,sp,alibaba group holding limited american depositary shares each representing eight ordinary share (baba) [st] f_____ s_____: new s_________ o_: trust one d__________: 45 shares loss ~$5500,s,12/28/2023,,"$1,001 - $15,000",,st,baba
+739,20024212,,sp,american tower corporation (amt) [st],s,12/28/2023,,"$1,001 - $15,000",,st,amt
+740,20024212,,sp,crown castle inc. (cci) [st] f_____ s_____: new s_________ o_: trust one d__________: sale loss 45.9831 shares,s,12/28/2023,,"$1,001 - $15,000",,st,cci
+741,20025087,,jt,ubs group ag registered ordinary shares (ubs) [st] f_____ s_____: new s_________ o_: brokerage 90126,s,05/14/2024,,"$50,001 - $100,000",,st,ubs
+742,20025115,,sp,nvidia corporation - common stock (nvda) [st] f_____ s_____: new s_________ o_: ira one,s,05/21/2024,,"$50,001 - $100,000",,st,nvda
+743,20025065,,jt,ubs group ag registered ordinary shares (ubs) [st] f_____ s_____: new s_________ o_: brokerage 90126,s,05/13/2024,,"$250,001 - $500,000",,st,ubs
+744,20025214,,sp,envista holdings corporation common stock (nvst) [st] f_____ s_____: new s_________ o_: trust one,s,06/06/2024,,"$1,001 - $15,000",,st,nvst
+745,20024632,,,"general mills, inc. common stock (gis) [st] f_____ s_____: new s_________ o_: et ira",s,03/20/2024,,"$1,001 - $15,000",,st,gis
+746,20024632,,sp,visa inc. (v) [st],p,02/29/2024,,"$1,001 - $15,000",,st,v
+747,20024577,,sp,carterbaldwin [ps] f_____ s_____: new l_______: us d__________: partner stock,p,01/30/2024,,"$1,001 - $15,000",,ps,
+748,20024660,,sp,synovus financial corp. common stock (snv) [st] f_____ s_____: new s_________ o_: stock plan d__________: employee stock plan distribution.,p,02/16/2024,,"$15,001 - $50,000",,st,snv
+749,20025224,,sp,"l3harris technologies, inc. common stock (lhx) [st] f_____ s_____: amended s_________ o_: shares of restrictedstock d__________: on 6/1/2021, spouse was granted a restricted unit award of l3harris te as part of his compensation pursuant to the provisionsof the harris corporation 2015 e https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018843.pdf ). these distributed on 6/3/2024 at the end ofthe day, and weresold as soon as possible on 6/4",s,06/04/2024,,"$1,001 - $15,000 chnologies, inc com quity incentive pla rsus vested on 6/1 /2024.",,st,lhx
+750,20025205,,sp,"l3harris technologies, inc. common stock (lhx) [st] f_____ s_____: new s_________ o_: shares of restricted stock d__________: on 6/1/2021, spouse was granted a restricted unit awardof l3harris tech part of his compensation pursuant to theprovisions of theharris corporation 2015 equity https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018843.pdf ). these rs distributed on 6/3/2023 at the end of theday, and were sold as soon as possible on 6/4/20",s,06/04/2024,,"$1,001 - $15,000 nologies, inc commo incentive plan ( see us vested on 6/1/20 24.",,st,lhx
+751,20024515,,,"simon property group, inc. common stock (spg) [st] f_____ s_____: new s_________ o_: charles schwab roth ira d__________: this transaction was madeby jason spartz's roth ira.",p,02/02/2024,,"$50,001 - $100,000",,st,spg
+752,20024515,,dc,"simon property group, inc. common stock (spg) [st]",p,02/02/2024,,"$1,001 - $15,000",,st,spg
+753,20024515,,dc,"simon property group, inc. common stock (spg) [st] f_____ s_____: new s_________ o_: charles schwab minorroth ira d__________: this transaction was madeby ingrid spartz's minor roth ira.",p,02/02/2024,,"$1,001 - $15,000",,st,spg
+754,20024787,,sp,synovus financial corp. common stock (snv) [st] f_____ s_____: new s_________ o_: investment,s,03/28/2024,,"$15,001 - $50,000",,st,snv
+755,20024271,,,nvidia corporation - common stock (nvda) [st] f_____ s_____: new s_________ o_: merrill lynch- advisordiscretion account- ira,s,03/04/2024,,"$15,001 - $50,000",,st,nvda
+756,20024403,,dc,mag silver corporation ordinary shares (mag) [st] f_____ s_____: new,p,01/08/2024,,"$1,001 - $15,000",,st,mag
+757,20024403,,dc,mag silver corporation ordinary shares (mag) [st],s,01/05/2024,,"$1,001 - $15,000",,st,mag
+758,20025179,,dc,perion network ltd - ordinary shares (peri) [st] f_____ s_____: new,p,05/16/2024,,"$1,001 - $15,000",,st,peri
+759,20024862,,,alphabet inc. - class a common stock (googl) [st] f_____ s_____: new,s,04/02/2024,,"$1,001 - $15,000",,st,googl
+760,20024862,,,alphabet inc. - class a common stock (googl) [st],s,04/02/2024,,"$1,001 - $15,000",,st,googl
+761,20024862,,,alphabet inc. - class c capital stock (goog) [st] f_____ s_____: new,s,04/02/2024,,"$1,001 - $15,000",,st,goog
+762,20024862,,,alphabet inc. - class c capital stock (goog) [st],s,04/02/2024,,"$1,001 - $15,000",,st,goog
+763,20024862,,,"amazon.com, inc. - common stock (amzn) [st] f_____ s_____: new",s,04/02/2024,,"$1,001 - $15,000",,st,amzn
+764,20024862,,,"amazon.com, inc. - common stock (amzn) [st]",s,04/02/2024,,"$1,001 - $15,000",,st,amzn
+765,20024862,,,apple inc. - common stock (aapl) [st] f_____ s_____: new,s,04/02/2024,,"$15,001 - $50,000",,st,aapl
+766,20024862,,,[st],,,,"$50,000",,st,
+767,20024862,,,berkshire hathaway inc. new common stock (brk.b) [st] f_____ s_____: new,s,04/02/2024,,"$1,001 - $15,000",,st,brk.b
+768,20024862,,,berkshire hathaway inc. new common stock (brk.b) [st],s,04/02/2024,,"$1,001 - $15,000",,st,brk.b
+769,20024862,,,microsoft corporation - common stock (msft) [st] f_____ s_____: new,s,04/02/2024,,"$1,001 - $15,000",,st,msft
+770,20024862,,,microsoft corporation - common stock (msft) [st],s,04/02/2024,,"$1,001 - $15,000",,st,msft
+771,20024468,,,alphabet inc. - class a common stock (googl) [st] f_____ s_____: new,s,01/25/2024,,"$1,001 - $15,000",,st,googl
+772,20024468,,,alphabet inc. - class a common stock (googl) [st],s,01/25/2024,,"$1,001 - $15,000",,st,googl
+773,20024468,,,alphabet inc. - class c capital stock (goog) [st] f_____ s_____: new,s,01/25/2024,,"$1,001 - $15,000",,st,goog
+774,20024468,,,alphabet inc. - class c capital stock (goog) [st],s,01/25/2024,,"$1,001 - $15,000",,st,goog
+775,20024468,,,"amazon.com, inc. - common stock (amzn) [st] f_____ s_____: new",s,01/25/2024,,"$1,001 - $15,000",,st,amzn
+776,20024468,,,"amazon.com, inc. - common stock (amzn) [st]",s,01/25/2024,,"$1,001 - $15,000",,st,amzn
+777,20024468,,,apple inc. - common stock (aapl) [st] f_____ s_____: new,s,01/25/2024,,"$15,001 - $50,000",,st,aapl
+778,20024468,,,[st],,,,"$50,000",,st,
+779,20024468,,,berkshire hathaway inc. new common stock (brk.b) [st] f_____ s_____: new,s,01/25/2024,,"$1,001 - $15,000",,st,brk.b
+780,20024468,,,berkshire hathaway inc. new common stock (brk.b) [st],s,01/25/2024,,"$1,001 - $15,000",,st,brk.b
+781,20024468,,,microsoft corporation - common stock (msft) [st],s,01/25/2024,,"$1,001 - $15,000",,st,msft
+782,20024468,,,microsoft corporation - common stock (msft) [st] f_____ s_____: new,s,01/25/2024,,"$1,001 - $15,000",,st,msft
+783,20024730,,sp,"pepsico, inc. (pep) [st] f_____ s_____: new s_________ o_: insurance trust 1",s,11/01/2023,,"$50,001 - $100,000",,st,pep
